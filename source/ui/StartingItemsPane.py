@@ -151,6 +151,7 @@ class StartingItemsPane(mtk.Frame):
             name="startingShopItemList",
             label=self.uiText["itemListLabel"],
             tooltip=self.uiText["itemListTooltip"],
+            allowReorder=False,
             **(filterOptions | left | pady5 | fillBoth | expand)
         )
         self.inventorySource = None

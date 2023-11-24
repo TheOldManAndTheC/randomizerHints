@@ -218,6 +218,9 @@ class RandomizerHintsController(mtk.Controller):
                             case "drop":
                                 self._showWarning("invalidPropertyTitle",
                                                   "invalidDropPrompt")
+            case mtk.LIST_SELECTOR_REORDERED:
+                self._refreshCategoryWidgets()
+                fileIO.writeSettings()
             case "addCategory":
                 self._addCategory()
             case "duplicateCategory":

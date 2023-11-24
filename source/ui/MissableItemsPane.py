@@ -42,6 +42,7 @@ class MissableItemsPane(mtk.Frame):
                                          name="missableItemsSelector",
                                          label=self.uiText["missableLabel"],
                                          tooltip=self.uiText["selectorTooltip"],
+                                         allowReorder=False,
                                          selectmode=tk.BROWSE,
                                          **(filterOptions | packOptions))
         frame = mtk.Frame(self, **packOptions)
