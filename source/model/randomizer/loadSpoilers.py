@@ -40,7 +40,7 @@ def loadSpoilers(spoilerLines):
     bossDict = dict()
     enemyDict = dict()
     directionFixes = deepcopy(dF.directionFixes)
-    enemyPlacementsDone = True
+    enemyPlacementsDone = False
     regularEnemyPlacements = False
     lineIter = iter(spoilerLines)
     nextLine = next(lineIter)[:-1]  # remove newline
