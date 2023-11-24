@@ -49,7 +49,7 @@ Elden Ring Randomizer Hints เป็นแอปพลิเคชัน Python
    
 [Mod Engine 2](https://github.com/soulsmods/ModEngine2) (หากไม่ได้ใช้ตัวเรียกใช้งานในตัวในตัวสุ่ม)  
   
-[Elden Ring Item and Enemy Randomizer v0.7.3](https://www.nexusmods.com/eldenring/mods/428) และ/หรือ [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
+[Elden Ring Item and Enemy Randomizer v0.7.3/v0.8](https://www.nexusmods.com/eldenring/mods/428) และ/หรือ [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
   
 [Yabber](https://github.com/JKAnderson/Yabber) หรือ WitchyBND[(Nexus Mods)](https://www.nexusmods.com/eldenring/mods/3862)[(Github)](https://github.com/ividyon/WitchyBND) เพื่อแตกและบรรจุไฟล์เกมใหม่  
   

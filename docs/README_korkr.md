@@ -49,7 +49,7 @@ Elden Ring Randomizer Hints은 사용자 인터페이스를 위해 Python의 내
    
 [Mod Engine 2](https://github.com/soulsmods/ModEngine2)(랜더마이저에 내장된 실행기를 사용하지 않는 경우)  
   
-[Elden Ring Item and Enemy Randomizer v0.7.3](https://www.nexusmods.com/eldenring/mods/428) 및/또는 [Elden Ring Fog Gate Randomizer 0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
+[Elden Ring Item and Enemy Randomizer v0.7.3/v0.8](https://www.nexusmods.com/eldenring/mods/428) 및/또는 [Elden Ring Fog Gate Randomizer 0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
   
 [Yabber](https://github.com/JKAnderson/Yabber) 또는 WitchyBND[(Nexus Mods)](https://www.nexusmods.com/eldenring/mods/3862)[(Github)](https://github.com/ividyon/WitchyBND) 게임 파일 압축을 풀고 다시 압축  
   
