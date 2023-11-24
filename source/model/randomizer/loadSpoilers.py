@@ -40,6 +40,7 @@ def loadSpoilers(spoilerLines):
     bossDict = dict()
     enemyDict = dict()
     directionFixes = deepcopy(dF.directionFixes)
+    enemyPlacementsDone = True
     regularEnemyPlacements = False
     lineIter = iter(spoilerLines)
     nextLine = next(lineIter)[:-1]  # remove newline
@@ -69,8 +70,13 @@ def loadSpoilers(spoilerLines):
             regularEnemyPlacements = True
             continue
 
+        # any lines starting with "Replacing " after this point are not enemies
+        if line.startswith("-- Gesture placements"):
+            enemyPlacementsDone = True
+            continue
+
         # Boss and enemy placements
-        if line.startswith("Replacing "):
+        if not enemyPlacementsDone and line.startswith("Replacing "):
             splitLine = line.split(" (#", 1)
             replacedEnemy = splitLine[0][10:]  # skip "Replacing "
             line = splitLine[1]
@@ -103,6 +109,7 @@ def loadSpoilers(spoilerLines):
                     "newID": newID,
                     "enemyRegion": enemyRegion
                 }
+
         if ". Replaces " not in line:  # Not an item entry
             continue
 
