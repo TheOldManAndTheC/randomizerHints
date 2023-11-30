@@ -326,6 +326,7 @@ defaultCategories = {
         "Briar Helm": {},
         "Budding Cave Moss": {'drop': True},
         "Cipher Pata": {},
+        "Claw Talisman": {},
         "Coded Sword": {},
         "Coil Shield": {},
         "Cracked Crystal": {'drop': True},
