@@ -364,6 +364,11 @@ missableLots_engus = {
     # sometimes (often?) doesn't get awarded
     "34140720": "Drop from enemy on bridge between Leyndell and the Forbidden "
                 "Lands. Sometimes this is not awarded.",
+    # Royal Revenant drop in Sainted Hero's Grave, the one closest to the wall
+    # of the two that are on each side of the item above and south of the
+    # exit door, sometimes this doesn't get awarded
+    "30080462": "Drop from enemy near and above heavy door in Sainted Hero's "
+                "Grave. Sometimes this is not awarded.",
     # Vargram the Raging Wolf invasion drop, currently broken by the
     # randomizer v0.5.7
     # Fixed in v0.6

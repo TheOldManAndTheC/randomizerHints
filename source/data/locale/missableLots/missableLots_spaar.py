@@ -83,6 +83,7 @@ missableLots_spaar = {
     "104600": "Dado por Rechiquiente al final de su búsqueda. Se puede perder si no se puede completar la misión Diallos.",
     "100420": "Esto aparece en el archivo spoiler como perteneciente a Mercader Kalé, pero en realidad no aparece en su tienda y no se puede obtener.",
     "34140720": "Caída del enemigo en el puente entre Leyndell y Tierras Prohibidas. A veces esto no se concede.",
+    "30080462": "Caída del enemigo cerca y por encima de una puerta pesada en Tumba de héroe canonizado. A veces esto no se concede.",
     "1037500000": "Esto aparece en el archivo spoiler cerca de Aldea del barranco oculto, pero en realidad no aparece en el mundo y no se puede obtener.",
     "39200000": "Esto aparece en el archivo spoiler como en la misma ubicación que otro elemento cerca de la base del ascensor junto a Mirador del precipicio sembrado de ruinas, pero en realidad no aparece en el mundo y no se puede obtener.",
 }
