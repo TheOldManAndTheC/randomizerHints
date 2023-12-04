@@ -82,6 +82,7 @@ missableLots_polpl = {
     "104800": "Nagroda za pokonanie sióstr Millicenta. Można go przegapić, jeśli staniesz po stronie jej sióstr.",
     "104600": "Otrzymany od Słojątko na koniec jego misji. Można je pominąć, jeśli nie można ukończyć zadania Diallos.",
     "100420": "Ten pojawia się w pliku spoiler jako należący do Kupiec Kalé, ale w rzeczywistości nie pojawia się w jego sklepie i nie można go uzyskać.",
+    "34140720": "Zrzuć z wroga na moście pomiędzy Leyndell i Zakazane Krainy. Czasami nie jest to nagradzane.",
     "1037500000": "To pojawia się w pliku spoiler jako bliskie Wioska w wąwozie, ale w rzeczywistości nie pojawia się na świecie i nie można go uzyskać.",
     "39200000": "Ten przedmiot pojawia się w pliku spoiler jako znajdujący się w tym samym miejscu, co inny przedmiot w pobliżu podstawy windy, obok Widok z urwiska usianego ruinami, ale w rzeczywistości nie pojawia się na świecie i nie można go zdobyć.",
 }

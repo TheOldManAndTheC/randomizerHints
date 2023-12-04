@@ -360,6 +360,10 @@ missableLots_engus = {
     "100420": "This appears in the spoilers file as belonging to Merchant "
               "Kalé, but it does not actually appear in his shop and cannot be "
               "obtained.",
+    # Extra Large Scarab drop on bridge to Divine Tower of East Altus, this
+    # sometimes (often?) doesn't get awarded
+    "34140720": "Drop from enemy on bridge between Leyndell and the Forbidden "
+                "Lands. Sometimes this is not awarded.",
     # Vargram the Raging Wolf invasion drop, currently broken by the
     # randomizer v0.5.7
     # Fixed in v0.6

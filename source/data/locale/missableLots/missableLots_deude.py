@@ -82,6 +82,7 @@ missableLots_deude = {
     "104800": "Belohnung für den Sieg über die Schwestern von Millicent. Kann man verpassen, wenn man sich auf die Seite ihrer Schwestern stellt.",
     "104600": "Gegeben von Gefäßkind am Ende seiner Quest. Kann übersehen werden, wenn die Diallos-Quest nicht abgeschlossen werden kann.",
     "100420": "Dies erscheint in der spoiler-Datei als zu Händler Kalé gehörend, erscheint jedoch nicht in seinem Shop und ist nicht erhältlich.",
+    "34140720": "Vom Feind auf der Brücke zwischen Leyndell und Verbotene Lande abwerfen. Manchmal wird dies nicht vergeben.",
     "1037500000": "Dies wird in der spoiler-Datei als in der Nähe von Verhülltes Klammdorf angezeigt, erscheint jedoch nicht tatsächlich in der Welt und kann nicht abgerufen werden.",
     "39200000": "In der spoiler-Datei erscheint dieser Gegenstand am selben Ort wie ein anderer Gegenstand in der Nähe der Basis des Aufzugs neben Ruinenübersäter Abgrund – Aussichtspunkt, aber er erscheint nicht wirklich in der Welt und kann nicht erhalten werden.",
 }
