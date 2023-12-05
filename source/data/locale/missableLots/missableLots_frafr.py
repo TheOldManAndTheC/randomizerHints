@@ -83,7 +83,7 @@ missableLots_frafr = {
     "104600": "Donné par Môme-jarre à la fin de sa quête. Peut être manqué si la quête Diallos ne peut pas être terminée.",
     "100420": "Celui-ci apparaît dans le fichier spoiler comme appartenant à Kalé le marchand, mais il n'apparaît pas réellement dans sa boutique et ne peut être obtenu.",
     "34140720": "Lâchez l'ennemi sur le pont entre le Leyndell et le Terres interdites. Parfois, cela n’est pas attribué.",
-    "30080462": "Lâchez l'ennemi près et au-dessus d'une porte lourde dans Tombe du héros canonisé. Parfois, cela n’est pas attribué.",
+    "402030001": "Lâchez l'ennemi près et au-dessus d'une porte lourde dans Tombe du héros canonisé. Parfois, cela n’est pas attribué.",
     "1037500000": "Celui-ci apparaît dans le fichier spoiler comme étant proche de Village secret du Ravin, mais il n'apparaît pas réellement dans le monde et ne peut être obtenu.",
     "39200000": "Celui-ci apparaît dans le fichier spoiler comme étant au même endroit qu'un autre élément près de la base de l'ascenseur à côté de Surplomb des ruines des falaises, mais il n'apparaît pas réellement dans le monde et ne peut pas être obtenu.",
 }
