@@ -155,6 +155,7 @@ noArticles = {
     "Corhyn's Bell Bearing",
     "Gowry's Bell Bearing",
     "Sellia's Secret",
+    "The Flame of Frenzy",
     "Adan, Thief of Fire",
     "Alecto, Black Knife Ringleader",
     "Anastasia, Tarnished-Eater",
