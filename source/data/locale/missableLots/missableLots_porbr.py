@@ -83,7 +83,8 @@ missableLots_porbr = {
     "104600": "Dado por Criança Jarro no final de sua missão. Pode ser perdida se a missão Diallos não puder ser concluída.",
     "100420": "Ele aparece no arquivo spoiler como pertencente a Mercador Kalé, mas na verdade não aparece em sua loja e não pode ser obtido.",
     "34140720": "Solte do inimigo na ponte entre Leyndell e Terras Proibidas. Às vezes isso não é concedido.",
-    "402030001": "Caia do inimigo próximo e acima da porta pesada em Túmulo do Herói Consagrado. Às vezes isso não é concedido.",
+    "402030001": "Caia do inimigo próximo e acima da porta pesada em Túmulo do Herói Consagrado. Se os inimigos forem randomizados, este item só será largado pelo inimigo original em seu novo local aleatório (se houver) e não corresponderá ao conteúdo do arquivo de spoiler. O item ainda pode ser obtido, mas as dicas sobre ele não serão precisas.",
+    "402040001": "Caia do inimigo na primeira poça de água abaixo das pontes de cristal em Esconderijo de Sellia. Se os inimigos forem randomizados, este item só será largado pelo inimigo original em seu novo local aleatório (se houver) e não corresponderá ao conteúdo do arquivo de spoiler. O item ainda pode ser obtido, mas as dicas sobre ele não serão precisas.",
     "1037500000": "Isso aparece no arquivo spoiler como próximo de Vilarejo Oculto da Ravina, mas na verdade não aparece no mundo e não pode ser obtido.",
     "39200000": "Ele aparece no arquivo spoiler como estando no mesmo local que outro item próximo à base do elevador próximo ao Vista das Ruínas do Penhasco, mas na verdade não aparece no mundo e não pode ser obtido.",
 }

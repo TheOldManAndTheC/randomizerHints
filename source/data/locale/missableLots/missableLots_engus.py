@@ -364,11 +364,37 @@ missableLots_engus = {
     # sometimes (often?) doesn't get awarded
     "34140720": "Drop from enemy on bridge between Leyndell and the Forbidden "
                 "Lands. Sometimes this is not awarded.",
+    # The following enemy lots seem to follow their randomized enemy ID instead
+    # of their original location. Unsure if it's possible that these enemies
+    # are never assigned to a new location making the items unobtainable.
+    # Also unsure what determines which new enemy assignment has the drop.
+    # I've only had one example where the enemy was assigned twice and the drop
+    # only happened in the first enemy location in the spoiler file.
+    # If there turn out to be a lot of these, may want to set up another data
+    # structure to track all enemy positions to be able to give accurate hints,
+    # but at that point it would probably be less effort to rewrite the entire
+    # mod to work from the data in the map files directly instead of parsing
+    # the randomizer's data files. For now, just let the player know these
+    # items are possibly missable.
     # Royal Revenant drop in Sainted Hero's Grave, the one closest to the wall
     # of the two that are on each side of the item above and south of the
-    # exit door, sometimes this doesn't get awarded
+    # exit door
     "402030001": "Drop from enemy near and above heavy door in Sainted Hero's "
-                 "Grave. Sometimes this is not awarded.",
+                 "Grave. "
+                 "If enemies are randomized, this item will only be "
+                 "dropped by the original enemy in its new randomized location "
+                 "(if any), and will not match the contents of the spoiler "
+                 "file. The item may still be obtainable, but the hints to it "
+                 "will not be accurate.",
+    # Royal Revenant drop in Sellia Hideaway, in the first pool below the
+    # crystals in the first big open area
+    "402040001": "Drop from enemy in the first pool of water below the "
+                 "crystal bridges in Sellia Hideaway. "
+                 "If enemies are randomized, this item will only be "
+                 "dropped by the original enemy in its new randomized location "
+                 "(if any), and will not match the contents of the spoiler "
+                 "file. The item may still be obtainable, but the hints to it "
+                 "will not be accurate.",
     # Vargram the Raging Wolf invasion drop, currently broken by the
     # randomizer v0.5.7
     # Fixed in v0.6

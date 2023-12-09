@@ -83,7 +83,8 @@ missableLots_spaar = {
     "104600": "Dado por Rechiquiente al final de su búsqueda. Se puede perder si no se puede completar la misión Diallos.",
     "100420": "Esto aparece en el archivo spoiler como perteneciente a Mercader Kalé, pero en realidad no aparece en su tienda y no se puede obtener.",
     "34140720": "Caída del enemigo en el puente entre Leyndell y Tierras Prohibidas. A veces esto no se concede.",
-    "402030001": "Caída del enemigo cerca y por encima de una puerta pesada en Tumba de héroe canonizado. A veces esto no se concede.",
+    "402030001": "Caída del enemigo cerca y por encima de una puerta pesada en Tumba de héroe canonizado. Si los enemigos son aleatorios, este elemento solo lo dejará caer el enemigo original en su nueva ubicación aleatoria (si la hay) y no coincidirá con el contenido del archivo de spoiler. Es posible que el artículo aún esté disponible, pero las pistas sobre él no serán precisas.",
+    "402040001": "Cae del enemigo en el primer charco de agua debajo de los puentes de cristal en Escondite de Sellia. Si los enemigos son aleatorios, este elemento solo lo dejará caer el enemigo original en su nueva ubicación aleatoria (si la hay) y no coincidirá con el contenido del archivo de spoiler. Es posible que el artículo aún esté disponible, pero las pistas sobre él no serán precisas.",
     "1037500000": "Esto aparece en el archivo spoiler cerca de Aldea del barranco oculto, pero en realidad no aparece en el mundo y no se puede obtener.",
     "39200000": "Esto aparece en el archivo spoiler como en la misma ubicación que otro elemento cerca de la base del ascensor junto a Mirador del precipicio sembrado de ruinas, pero en realidad no aparece en el mundo y no se puede obtener.",
 }

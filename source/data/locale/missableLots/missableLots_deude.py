@@ -83,7 +83,8 @@ missableLots_deude = {
     "104600": "Gegeben von Gefäßkind am Ende seiner Quest. Kann übersehen werden, wenn die Diallos-Quest nicht abgeschlossen werden kann.",
     "100420": "Dies erscheint in der spoiler-Datei als zu Händler Kalé gehörend, erscheint jedoch nicht in seinem Shop und ist nicht erhältlich.",
     "34140720": "Vom Feind auf der Brücke zwischen Leyndell und Verbotene Lande abwerfen. Manchmal wird dies nicht vergeben.",
-    "402030001": "Lassen Sie sich in Grab des heiligen Helden vom Feind in der Nähe und über einer schweren Tür fallen. Manchmal wird dies nicht vergeben.",
+    "402030001": "Lassen Sie sich in Grab des heiligen Helden vom Feind in der Nähe und über einer schweren Tür fallen. Wenn Feinde zufällig ausgewählt werden, wird dieser Gegenstand nur vom ursprünglichen Feind an seinem neuen zufälligen Ort (falls vorhanden) abgelegt und stimmt nicht mit dem Inhalt der Spoilerdatei überein. Der Gegenstand ist möglicherweise noch erhältlich, aber die Hinweise dazu sind nicht korrekt.",
+    "402040001": "Lassen Sie sich vom Feind im ersten Wasserbecken unterhalb der Kristallbrücken in Sellias Versteck fallen. Wenn Feinde zufällig ausgewählt werden, wird dieser Gegenstand nur vom ursprünglichen Feind an seinem neuen zufälligen Ort (falls vorhanden) abgelegt und stimmt nicht mit dem Inhalt der Spoilerdatei überein. Der Gegenstand ist möglicherweise noch erhältlich, aber die Hinweise dazu sind nicht korrekt.",
     "1037500000": "Dies wird in der spoiler-Datei als in der Nähe von Verhülltes Klammdorf angezeigt, erscheint jedoch nicht tatsächlich in der Welt und kann nicht abgerufen werden.",
     "39200000": "In der spoiler-Datei erscheint dieser Gegenstand am selben Ort wie ein anderer Gegenstand in der Nähe der Basis des Aufzugs neben Ruinenübersäter Abgrund – Aussichtspunkt, aber er erscheint nicht wirklich in der Welt und kann nicht erhalten werden.",
 }

@@ -83,7 +83,8 @@ missableLots_itait = {
     "104600": "Fornito da Vaso bambino alla fine della sua ricerca. Può essere mancato se la missione Diallos non può essere completata.",
     "100420": "Questo appare nel file spoiler come appartenente a Mercante Kalé, ma in realtà non appare nel suo negozio e non può essere ottenuto.",
     "34140720": "Lasciati cadere dal nemico sul ponte tra Leyndell e Terre proibite. A volte questo non viene assegnato.",
-    "402030001": "Lasciati cadere dal nemico vicino e sopra la porta pesante in Tomba dell'eroe beato. A volte questo non viene assegnato.",
+    "402030001": "Lasciati cadere dal nemico vicino e sopra la porta pesante in Tomba dell'eroe beato. Se i nemici vengono randomizzati, questo oggetto verrà rilasciato solo dal nemico originale nella sua nuova posizione randomizzata (se presente) e non corrisponderà al contenuto del file spoiler. L'oggetto potrebbe essere ancora ottenibile, ma i suggerimenti non saranno accurati.",
+    "402040001": "Lasciati cadere dal nemico nella prima pozza d'acqua sotto i ponti di cristallo in Ritiro di Sellia. Se i nemici vengono randomizzati, questo oggetto verrà rilasciato solo dal nemico originale nella sua nuova posizione randomizzata (se presente) e non corrisponderà al contenuto del file spoiler. L'oggetto potrebbe essere ancora ottenibile, ma i suggerimenti non saranno accurati.",
     "1037500000": "Questo appare nel file spoiler come vicino a Villaggio della gola nascosta, ma in realtà non appare nel mondo e non può essere ottenuto.",
     "39200000": "Questo appare nel file spoiler come se fosse nella stessa posizione di un altro oggetto vicino alla base dell'ascensore accanto a Vista sul precipizio delle rovine, ma in realtà non appare nel mondo e non può essere ottenuto.",
 }
