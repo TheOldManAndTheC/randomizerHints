@@ -295,7 +295,7 @@ class RandomizerHintsModel(mtk.Model):
                                lines=True)
             )
             self._fogSeed = self._fog["fogSeed"]
-            self._output("fogSeedText", self._seed)
+            self._output("fogSeedText", self._fogSeed)
         else:
             self._fog = None
             self._fogSeed = None
