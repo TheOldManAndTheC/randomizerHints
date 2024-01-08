@@ -80,6 +80,7 @@ itemPlurals = {
     "Great Knife": "Great Knives",
     "Greaves": "Greaves",
     "Herba": "Herba",
+    "Hookclaws": "Hookclaws",
     "Innards": "Innards",
     "Kukri": "Kukri",
     "Leggings": "Leggings",
