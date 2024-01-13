@@ -19,6 +19,7 @@ missableLots_engus = {
     # Latenna's drop at her shack, can miss this if you fight Ensha before
     # showing her Albus's right half of the medallion
     # Might also be just picking up the left half?
+    # Also sometimes doesn't get awarded even if she's there
     # Latenna the Albinauric
     "104100": "Given by Latenna after meeting her with the right half of the "
               "Haligtree Secret Medallion. Can be missed if you obtain the "

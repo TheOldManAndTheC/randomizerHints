@@ -186,14 +186,18 @@ def hintText_deude(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "welches sich in der {book} befindet, {parentHint}"
+                "welches sich in der {book} befindet{parentHint}"
             ]
         else:
             variants = [
-                "{item} befindet sich in der {book}, {parentHint}"
+                "{item} befindet sich in der {book}{parentHint}"
             ]
         kwargs = {
             "book": book,

@@ -155,14 +155,18 @@ def hintText_zhocn(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                "，" + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "这是在{book}中，{parentHint}",
+                "这是在{book}中{parentHint}",
             ]
         else:
             variants = [
-                "{book}中有{item}，{parentHint}",
+                "{book}中有{item}{parentHint}",
             ]
         kwargs = {
             "book": book,

@@ -185,10 +185,11 @@ def generateComponentEntry(itemEntry, useFogAreas, useAllDirections):
     # hints for items contained within books, paintings, or remembrances
     if "book" in itemEntry:
         hintEntry["book"] = itemEntry["book"]
-        parentEntries = itemEntry["parentEntries"]
-        hintEntry["parentEntry"] = \
-            generateComponentEntry(rng.choice(parentEntries), useFogAreas,
-                                   useAllDirections)
+        if "parentEntries" in itemEntry:
+            parentEntries = itemEntry["parentEntries"]
+            hintEntry["parentEntry"] = \
+                generateComponentEntry(rng.choice(parentEntries), useFogAreas,
+                                       useAllDirections)
     # get the region and directions for the item if any
     hintEntry["directions"] = \
         getDirections(itemEntry, useFogAreas, useAllDirections)

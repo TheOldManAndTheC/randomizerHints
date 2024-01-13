@@ -159,14 +159,18 @@ def hintText_korkr(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "에 있는, {parentHint}",
+                "에 있는{parentHint}",
             ]
         else:
             variants = [
-                "{item}은 {book}에 있고, {parentHint}",
+                "{item}은 {book}에 있고{parentHint}",
             ]
         kwargs = {
             "book": book,

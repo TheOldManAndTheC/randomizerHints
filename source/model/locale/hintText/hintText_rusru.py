@@ -176,14 +176,18 @@ def hintText_rusru(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "который находится в {book}, {parentHint}",
+                "который находится в {book}{parentHint}",
             ]
         else:
             variants = [
-                "{item} находится в {book}, {parentHint}",
+                "{item} находится в {book}{parentHint}",
             ]
         kwargs = {
             "book": book,

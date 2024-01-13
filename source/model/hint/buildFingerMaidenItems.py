@@ -95,6 +95,8 @@ def buildFingerMaidenItems(allHintEntries, randomized, hintCategories, params,
             categoryItemDict = category[displayName]
             categoryItemDict["itemEntries"] = []
             itemName = itemInfo[displayName]["name"]
+            if itemName not in randomized:
+                continue
             for itemEntry in randomized[itemName]:
                 # if it's only supposed to be drops and shops, don't
                 # add any locational or book lots for consideration

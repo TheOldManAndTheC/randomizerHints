@@ -177,14 +177,18 @@ def hintText_frafr(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "qui se trouve dans {book}, {parentHint}"
+                "qui se trouve dans {book}{parentHint}"
             ]
         else:
             variants = [
-                "{item} sont dans {book}, {parentHint}"
+                "{item} sont dans {book}{parentHint}"
             ]
         kwargs = {
             "book": book,

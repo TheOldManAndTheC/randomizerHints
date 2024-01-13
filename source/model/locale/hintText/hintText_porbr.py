@@ -174,14 +174,18 @@ def hintText_porbr(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "que está no {book}, {parentHint}",
+                "que está no {book}{parentHint}",
             ]
         else:
             variants = [
-                "{item} estão no {book}, {parentHint}",
+                "{item} estão no {book}{parentHint}",
             ]
         kwargs = {
             "book": book,

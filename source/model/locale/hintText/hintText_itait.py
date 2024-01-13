@@ -180,14 +180,18 @@ def hintText_itait(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "che si trova nella {book}, {parentHint}"
+                "che si trova nella {book}{parentHint}"
             ]
         else:
             variants = [
-                "{item} è nella {book}, {parentHint}"
+                "{item} è nella {book}{parentHint}"
             ]
         kwargs = {
             "book": book,

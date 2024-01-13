@@ -79,7 +79,8 @@ def processItemEntry(itemEntry, randomized, enemyDict, bossDict, areas):
     # entry
     if "book" in itemEntry:
         itemEntry["container"] = itemEntry["book"]
-        itemEntry["parentEntries"] = randomized[itemEntry["book"]]
+        if itemEntry["book"] in randomized:
+            itemEntry["parentEntries"] = randomized[itemEntry["book"]]
     # make sure there's a container
     if "container" not in itemEntry:
         containerNames = itemEntry["containerNames"]

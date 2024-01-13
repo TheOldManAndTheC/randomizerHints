@@ -178,14 +178,18 @@ def hintText_spaar(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "que está en {book}, {parentHint}",
+                "que está en {book}{parentHint}",
             ]
         else:
             variants = [
-                "{item} está en {book}, {parentHint}",
+                "{item} está en {book}{parentHint}",
             ]
         kwargs = {
             "book": book,

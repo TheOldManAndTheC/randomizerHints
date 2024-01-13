@@ -221,18 +221,22 @@ def hintText_engus(components, localeData):
     # Use these components to assemble a grammatically correct book hint.
     def bookHint(hintEntry, isParent=False):
         book = localize(hintEntry["book"])
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                ", " + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "which is {in} the {book}, {parentHint}",
-                "and the {book} {contains} one, {parentHint}",
-                "and one is {in} the {book}, {parentHint}",
+                "which is {in} the {book}{parentHint}",
+                "and the {book} {contains} one{parentHint}",
+                "and one is {in} the {book}{parentHint}",
             ]
         else:
             variants = [
-                "{in} the {book} {verb} {item}, {parentHint}",
-                "the {book} {contains} {item}, {parentHint}",
-                "{item} {verb} {in} the {book}, {parentHint}",
+                "{in} the {book} {verb} {item}{parentHint}",
+                "the {book} {contains} {item}{parentHint}",
+                "{item} {verb} {in} the {book}{parentHint}",
             ]
         parts = itemParts(hintEntry)
         kwargs = {

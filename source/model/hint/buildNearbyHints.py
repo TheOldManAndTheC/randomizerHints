@@ -54,6 +54,8 @@ def buildNearbyHints(allNearbyHintEntries, randomized, params):
         for itemName in hintEntryDict["hintItems"]:
             # get lists of all the item entries for this item name
             itemEntries = []
+            if itemName not in randomized:
+                continue
             for itemEntry in randomized[itemName]:
                 itemEntries.append(itemEntry)
             # generate the given number of hints
@@ -67,6 +69,8 @@ def buildNearbyHints(allNearbyHintEntries, randomized, params):
                 # add the entry to the hintEntries
                 hintEntries.append(itemEntry)
         # finish generating the hint and add it to the master list
+        if not hintEntries:
+            continue
         hintEntryDict["hintEntries"] = hintEntries
         allNearbyHintEntries.append(hintEntryDict)
         count += 1

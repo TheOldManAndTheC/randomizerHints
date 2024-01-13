@@ -163,14 +163,18 @@ def hintText_jpnjp(components, localeData):
         book = localize(hintEntry["book"])
         item = localize(hintEntry["item"])
         quantity = hintEntry["quantity"]
-        parentHint = hintString(hintEntry["parentEntry"], isParent=True)
+        if "parentEntry" in hintEntry:
+            parentHint = \
+                "、" + hintString(hintEntry["parentEntry"], isParent=True)
+        else:
+            parentHint = ""
         if isParent:
             variants = [
-                "それは{book}に中にあります、{parentHint}",
+                "それは{book}に中にあります{parentHint}",
             ]
         else:
             variants = [
-                "{item}は{book}に中にあります、{parentHint}",
+                "{item}は{book}に中にあります{parentHint}",
             ]
         kwargs = {
             "book": book,

@@ -61,7 +61,10 @@ def buildQuestHints(allHintEntries, randomized, params):
             #   frustrating
             itemEntries = []
             for itemName in hintEntryDict["lotItems"]:
-                itemEntries += randomized[itemName]
+                if itemName in randomized:
+                    itemEntries += randomized[itemName]
+            if not itemEntries:
+                continue
             rng.shuffle(itemEntries)
 
             # split all the item entries into open, full, and shop categories
@@ -116,6 +119,8 @@ def buildQuestHints(allHintEntries, randomized, params):
         if "lotItems" in hintEntryDict:
             # get the first item entry for this item name
             # TODO: allow for multiple item names and random selection of lots
+            if hintEntryDict["lotItems"][0] not in randomized:
+                continue
             itemEntry = randomized[hintEntryDict["lotItems"][0]][0]
             # if there's a free lot there, add the lotID to the hint entry dict
             if freeRange(itemEntry["lotID"], params["ItemLotParam_map"]):
@@ -134,7 +139,8 @@ def buildQuestHints(allHintEntries, randomized, params):
                     # don't add if we've already reached the limit
                     if len(hintEntry["hintEntries"]) == 4:
                         break
-                    hintEntry["hintEntries"].append(randomized[itemName][0])
+                    if itemName in randomized:
+                        hintEntry["hintEntries"].append(randomized[itemName][0])
                 # we've added the hints to the alternate hint entry dict, move
                 # on
                 continue
@@ -154,6 +160,8 @@ def buildQuestHints(allHintEntries, randomized, params):
             # get lists of all the item entries for this item name
             itemEntries = []
             nonShopItemEntries = []
+            if itemName not in randomized:
+                continue
             for itemEntry in randomized[itemName]:
                 itemEntries.append(itemEntry)
                 if "isShop" not in itemEntry:
@@ -175,6 +183,8 @@ def buildQuestHints(allHintEntries, randomized, params):
                 # add the entry to the hintEntries
                 hintEntries.append(itemEntry)
         # finish generating the hint and add it to the master list
+        if not hintEntries:
+            continue
         hintEntryDict["hintEntries"] = hintEntries
         allHintEntries.append(hintEntryDict)
         count += 1
