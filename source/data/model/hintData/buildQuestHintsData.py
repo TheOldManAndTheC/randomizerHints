@@ -418,6 +418,7 @@ questHints = [
                            "of an empyrean under the auspices of the dark "
                            "moon.",
         "hintIconTypes": ["book"],
+        "altLotID": "1034510900",
     },
 
     {
