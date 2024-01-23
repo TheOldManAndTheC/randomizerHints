@@ -1702,7 +1702,7 @@ fogRegionHints = {
     "20160": "the War-Dead Tomb",  # Redmane Knight Ogha - WNW 175h -30v
     # region248 - the bridge to the Forbidden Lands
     # landmark1 - Forbidden Lands
-    "10740": "Leyndell Tower",  # Omenkiller Rollo - SSE 192h -287v
+    "10740": "The Darkness",  # Omenkiller Rollo - SSE 192h -287v
     "34140000": "Leyndell Tower",  # Invigorating White Cured Meat - W 251h 112v
     "34140010": "Leyndell Tower",  # Official's Attire - SW 80h 20v
     "34140720": "Leyndell Tower",  # Somber Smithing Stone [6] - W 195h 113v
