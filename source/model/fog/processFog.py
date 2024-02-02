@@ -304,13 +304,11 @@ def processFog(fogLines, fogSpoilerLines):
             # if there are conditions that can block movement into the area
             # when passing through into a side, mark the side as blocked
             if "cond" in aSideEntry and \
-                    (aSideEntry["cond"] in aSideEntry["area"] or
-                     aSideEntry["area"] in aSideEntry["cond"] or
+                    (aSideEntry["cond"] == aSideEntry["area"] or
                      aSideEntry["cond"] in fogBlockedConditions):
                 aSideEntry["isBlocked"] = True
             if "cond" in bSideEntry and \
-                    (bSideEntry["cond"] in bSideEntry["area"] or
-                     bSideEntry["area"] in bSideEntry["cond"] or
+                    (bSideEntry["cond"] == bSideEntry["area"] or
                      bSideEntry["cond"] in fogBlockedConditions):
                 bSideEntry["isBlocked"] = True
 
