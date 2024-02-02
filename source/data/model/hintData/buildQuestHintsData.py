@@ -363,6 +363,16 @@ questHints = [
                            "letter of introduction to Sorceress Sellen.",
         "hintIconTypes": ["scroll"]
     },
+    {
+        "lotID": "1034500100",
+        "hintItems": ["Starlight Shards"],
+        "hintNumber": 4,
+        "hintName": "Preceptor's Notes",
+        "hintDescription": "Preceptor's Notes.\nNotes on locations of shards "
+                           "of starlight needed for Seluvis's private "
+                           "projects.",
+        "hintIconTypes": ["scroll"],
+    },
     # Pidia: 100325
     # Pidia (Weathered Map): 100340
     # item next to Pidia, lot 1035500110

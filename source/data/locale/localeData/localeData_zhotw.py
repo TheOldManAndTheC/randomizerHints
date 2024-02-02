@@ -6224,6 +6224,8 @@ localeData_zhotw = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "賽爾維斯的陰謀。\n揭示賽爾維斯導師可以馴服九重天的藥水的位置。",
     "Seluvis's Orders": "賽爾維斯的命令",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "賽爾維斯的命令。\n取得魔法師瑟濂的介紹信的說明。",
+    "Preceptor's Notes": "魔法教授的筆記",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "魔法教授的筆記.\n賽爾維斯私人項目所需的星光碎片位置註釋。",
     "The Cursed-one's Hatred": "被詛咒者的仇恨",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "被詛咒者的仇恨。\n來自可惡的食糞者的詛咒世界的慾望。",
     "The Deathmother's Wish": "死母的願望",

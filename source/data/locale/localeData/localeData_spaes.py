@@ -6225,6 +6225,8 @@ localeData_spaes = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "La conspiración de Seluvis.\nRevela el lugar de la poción del Preceptor Seluvis que puede domesticar a un empíreo.",
     "Seluvis's Orders": "Órdenes de Seluvis",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "Órdenes de Seluvis.\nInstrucciones para obtener una carta de presentación para la Hechicera Sellen.",
+    "Preceptor's Notes": "Notas de Preceptor",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "Notas de Preceptor.\nNotas sobre la ubicación de fragmentos de luz estelar necesarios para los proyectos privados de Seluvis.",
     "The Cursed-one's Hatred": "El odio del maldito",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "El odio del maldito.\nEl deseo de maldecir al mundo por parte del repugnante Zampaheces.",
     "The Deathmother's Wish": "El deseo de la Madre Muerte",

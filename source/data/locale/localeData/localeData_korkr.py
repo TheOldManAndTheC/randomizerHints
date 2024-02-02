@@ -6257,6 +6257,8 @@ localeData_korkr = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "셀브스의 음모.\n엠피리언을 길들일 수 있는 셀브스 교관의 물약의 위치를 드러냅니다.",
     "Seluvis's Orders": "셀브스의 명령",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "셀브스의 명령.\n마술사 셀렌에 대한 소개장을 구하는 방법.",
+    "Preceptor's Notes": "마술 교수의 메모",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "마술 교수의 메모.\n셀브스의 개인 프로젝트에 필요한 별빛 조각 위치에 대한 참고 사항입니다.",
     "The Cursed-one's Hatred": "저주받은 자의 증오",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "저주받은 자의 증오.\n혐오스러운 대변 먹는 자로부터 세상을 저주하려는 욕망.",
     "The Deathmother's Wish": "죽음의 어머니의 소원",

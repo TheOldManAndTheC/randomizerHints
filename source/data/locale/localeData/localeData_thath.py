@@ -6068,6 +6068,8 @@ localeData_thath = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "การสมรู้ร่วมคิดของเซลูวิส\nเผยสถานที่ปรุงยาของ อุปัชฌาย์เซลูวิส ที่สามารถฝึกเอ็มไพเรียนได้",
     "Seluvis's Orders": "คำสั่งของเซลูวิส",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "คำสั่งของเซลูวิส\nคำแนะนำในการรับจดหมายแนะนำตัวถึงจอม​เวท​เซล​เลน",
+    "Preceptor's Notes": "หมายเหตุของปรมาจารย์​คาถา",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "หมายเหตุของปรมาจารย์​คาถา.\nหมายเหตุเกี่ยวกับตำแหน่งของเศษแสงดาวที่จำเป็นสำหรับโครงการส่วนตัวของเซลู​วิส",
     "The Cursed-one's Hatred": "ความเกลียดชังของผู้ถูกสาป",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "ความเกลียดชังของผู้ถูกสาป\nความปรารถนาที่จะสาปแช่งโลกจาก ผู้​เสพ​อาจม ที่น่ารังเกียจ",
     "The Deathmother's Wish": "ความปรารถนาของแม่ผู้ตาย",

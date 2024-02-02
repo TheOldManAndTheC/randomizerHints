@@ -6137,6 +6137,8 @@ localeData_rusru = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "Заговор Селувиса.\nРаскрывает местонахождение зелья наставника Селувиса, способного приручить эмпиреи.",
     "Seluvis's Orders": "Приказы Селувиса",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "Приказы Селувиса.\nИнструкции по получению рекомендательного письма к Чародейка Селлена.",
+    "Preceptor's Notes": "Примечания Профессор",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "Примечания Профессор.\nЗаметки о местоположении осколков звездного света, необходимых для частных проектов Селувис.",
     "The Cursed-one's Hatred": "Ненависть Проклятого",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "Ненависть Проклятого.\nЖажда проклясть мир от отвратительного Поедатель Отбросов.",
     "The Deathmother's Wish": "Желание Матери Смерти",

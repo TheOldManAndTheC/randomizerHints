@@ -6257,6 +6257,8 @@ localeData_engus = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.",
     "Seluvis's Orders": "Seluvis's Orders",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.",
+    "Preceptor's Notes": "Preceptor's Notes",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.",
     "The Cursed-one's Hatred": "The Cursed-one's Hatred",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.",
     "The Deathmother's Wish": "The Deathmother's Wish",

@@ -6138,6 +6138,8 @@ localeData_itait = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "La cospirazione di Seluvis.\nRivela il luogo in cui si trova la pozione del Precettore Seluvis che può domare un Empireo.",
     "Seluvis's Orders": "Gli ordini di Seluvis",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "Gli ordini di Seluvis.\nIstruzioni per ottenere una lettera di presentazione alla Strega Sellen.",
+    "Preceptor's Notes": "Note di Precettore",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "Note di Precettore.\nNote sulla posizione dei frammenti di luce stellare necessari per i progetti privati di Seluvis.",
     "The Cursed-one's Hatred": "L'odio del maledetto",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "L'odio del maledetto.\nIl desiderio di maledire il mondo da parte del ripugnante Mangiasterco.",
     "The Deathmother's Wish": "Il desiderio della madre morte",

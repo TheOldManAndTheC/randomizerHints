@@ -6257,6 +6257,8 @@ localeData_jpnjp = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "セルヴィスの陰謀。\nエンピリアンを飼いならすことができるプリセプター・セルヴィスのポーションの場所を明らかにする。",
     "Seluvis's Orders": "セルヴィスの命令",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "セルヴィスの命令。\n魔術師セレンへの紹介状を入手する手順。",
+    "Preceptor's Notes": "魔術教授のメモ",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "魔術教授のメモ.\nセルブスのプライベートプロジェクトに必要な星の光の破片の場所についてのメモ。",
     "The Cursed-one's Hatred": "呪われた者の憎しみ",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "呪われた者の憎しみ。\n忌まわしい糞喰いから世界を呪いたいという欲望。",
     "The Deathmother's Wish": "死母の願い",

@@ -6225,6 +6225,8 @@ localeData_polpl = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "Spisek Seluvisa.\nUjawnia miejsce eliksiru nauczyciela Seluvisa, który może okiełznać Empireum.",
     "Seluvis's Orders": "Rozkazy Seluvisa",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "Rozkazy Seluvisa.\nInstrukcje uzyskania listu polecającego do Czarodziejka Sellen.",
+    "Preceptor's Notes": "Notatki Mistrz",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "Notatki Mistrz.\nNotatki na temat lokalizacji odłamków światła gwiazd potrzebnych do prywatnych projektów Seluvis.",
     "The Cursed-one's Hatred": "Nienawiść Przeklętego",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "Nienawiść Przeklętego.\nPożądanie przekląć świat ze strony wstrętnego Łajnożerca.",
     "The Deathmother's Wish": "Życzenie Matki Śmierci",

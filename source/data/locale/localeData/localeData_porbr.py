@@ -6129,6 +6129,8 @@ localeData_porbr = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "A conspiração de Seluvis.\nRevela o local da poção do Preceptor Seluvis que pode domar um Empíreo.",
     "Seluvis's Orders": "Ordens de Seluvis",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "Ordens de Seluvis.\nInstruções para obter uma carta de apresentação para a Feiticeira Sellen.",
+    "Preceptor's Notes": "Notas do Preceptor",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "Notas do Preceptor.\nNotas sobre a localização dos fragmentos de luz estelar necessários para os projetos privados do Seluvis.",
     "The Cursed-one's Hatred": "O Ódio do Maldito",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "O Ódio do Maldito.\nO desejo de amaldiçoar o mundo por parte do repugnante Comedor de Estrume.",
     "The Deathmother's Wish": "O Desejo da Mãe Morte",

@@ -6204,6 +6204,8 @@ localeData_deude = {
     "Seluvis's Conspiracy.\nReveals the place of Preceptor Seluvis's potion that can tame an empyrean.": "Seluvis' Verschwörung.\nEnthüllt den Ort des Tranks von Präzeptor Seluvis, der einen Empyreaner zähmen kann.",
     "Seluvis's Orders": "Seluvis' Befehle",
     "Seluvis's Orders.\nInstructions to obtain a letter of introduction to Sorceress Sellen.": "Seluvis' Befehle.\nAnweisungen zum Erhalt eines Empfehlungsschreibens für Zauberin Sellen.",
+    "Preceptor's Notes": "Notizen von Präzeptor",
+    "Preceptor's Notes.\nNotes on locations of shards of starlight needed for Seluvis's private projects.": "Notizen von Präzeptor.\nHinweise zu den Standorten der Sternenlichtsplitter, die für die privaten Projekte von Seluvis benötigt werden.",
     "The Cursed-one's Hatred": "Der Hass des Verfluchten",
     "The Cursed-one's Hatred.\nA lust to curse the world from the loathsome Dung Eater.": "Der Hass des Verfluchten.\nDie Lust, die Welt vor dem abscheulichen Dungfresser zu verfluchen.",
     "The Deathmother's Wish": "Der Wunsch der Todesmutter",
