@@ -132,8 +132,7 @@ missableLots_engus = {
     # the same lot will be softlocked, along with the gesture itself
     # Cannon of Haima
     "1039480100": "In a chest at the top of Converted Fringe Tower. Can be "
-                  "missed if Academy Glintstone Key (Thops) is in the same "
-                  "chest or is otherwise unobtainable.",
+                  "missed if the Erudition gesture is unavailable.",
     # "1039480101", # Gavel of Haima
     # Bernahl's quest, can be softlocked if Letter to Bernahl (or Istvan or
     # Rilegh) are in Ashen Leyndell
@@ -155,6 +154,11 @@ missableLots_engus = {
     "101740": "Drop from Alexander after finishing his quest. Can be missed if "
               "you kill him before then.",
     # "101741",  # Alexander's Innards
+    # Alexander's first gift for getting ustuck can be missed if the festival
+    # starts before you can get to him in Stormhill
+    "101700": "Given by Alexander after freeing him from the hole in "
+              "Stormhill. Can be missed if you are unable to reach him before "
+              "the festival starts.",
     # Alexander's second gift for getting unstuck can be softlocked if there is
     # no way to make oil pots before he appears in Mt. Gelmir or Farum Azula
     # Exalted Flesh
@@ -357,45 +361,84 @@ missableLots_engus = {
     # Companion Jar
     "104600": "Given by Jar-Bairn at the end of his quest. Can be missed if "
               "Diallos's quest can't be completed.",
-    # Glowstone lot attributed to Merchant Kale but does not show up in game
-    "100420": "This appears in the spoilers file as belonging to Merchant "
-              "Kalé, but it does not actually appear in his shop and cannot be "
-              "obtained.",
-    # Extra Large Scarab drop on bridge to Divine Tower of East Altus, this
-    # sometimes (often?) doesn't get awarded
-    "34140720": "Drop from enemy on bridge between Leyndell and the Forbidden "
-                "Lands. Sometimes this is not awarded.",
     # The following enemy lots seem to follow their randomized enemy ID instead
     # of their original location. Unsure if it's possible that these enemies
     # are never assigned to a new location making the items unobtainable.
     # Also unsure what determines which new enemy assignment has the drop.
     # I've only had one example where the enemy was assigned twice and the drop
     # only happened in the first enemy location in the spoiler file.
+    # This also seems to happen inconsistently, the Sellia Hideaway enemy had
+    # this problem in one playthrough, but it was awarded properly in another.
     # If there turn out to be a lot of these, may want to set up another data
     # structure to track all enemy positions to be able to give accurate hints,
     # but at that point it would probably be less effort to rewrite the entire
     # mod to work from the data in the map files directly instead of parsing
     # the randomizer's data files. For now, just let the player know these
     # items are possibly missable.
+    # Extra Large Scarab drop on bridge to Divine Tower of East Altus
+    "34140720": "Drop from enemy on bridge between Leyndell and the Forbidden "
+                "Lands. "
+                "If enemies are randomized, this item may or may not be "
+                "dropped by the original enemy in its new randomized "
+                "location (if any), and may not match the contents of the "
+                "spoiler file. The item may still be obtainable, but the "
+                "hints to it may not be accurate.",
     # Royal Revenant drop in Sainted Hero's Grave, the one closest to the wall
     # of the two that are on each side of the item above and south of the
     # exit door
     "402030001": "Drop from enemy near and above heavy door in Sainted Hero's "
                  "Grave. "
-                 "If enemies are randomized, this item will only be "
-                 "dropped by the original enemy in its new randomized location "
-                 "(if any), and will not match the contents of the spoiler "
-                 "file. The item may still be obtainable, but the hints to it "
-                 "will not be accurate.",
+                 "If enemies are randomized, this item may or may not be "
+                 "dropped by the original enemy in its new randomized "
+                 "location (if any), and may not match the contents of the "
+                 "spoiler file. The item may still be obtainable, but the "
+                 "hints to it may not be accurate.",
     # Royal Revenant drop in Sellia Hideaway, in the first pool below the
     # crystals in the first big open area
     "402040001": "Drop from enemy in the first pool of water below the "
                  "crystal bridges in Sellia Hideaway. "
-                 "If enemies are randomized, this item will only be "
-                 "dropped by the original enemy in its new randomized location "
-                 "(if any), and will not match the contents of the spoiler "
-                 "file. The item may still be obtainable, but the hints to it "
-                 "will not be accurate.",
+                 "If enemies are randomized, this item may or may not be "
+                 "dropped by the original enemy in its new randomized "
+                 "location (if any), and may not match the contents of the "
+                 "spoiler file. The item may still be obtainable, but the "
+                 "hints to it may not be accurate.",
+    # Enemies that are disguised in the vanilla game that drop Larval Tears
+    "1044350100": "Drop from enemy east of Agheel Lake South. "
+                  "If enemies are randomized, this item may or may not be "
+                  "dropped by the original enemy in its new randomized "
+                  "location (if any), and may not match the contents of the "
+                  "spoiler file. The item may still be obtainable, but the "
+                  "hints to it may not be accurate.",
+    "1047370100": "Drop from enemy near coffins south of Caelid Highway South. "
+                  "If enemies are randomized, this item may or may not be "
+                  "dropped by the original enemy in its new randomized "
+                  "location (if any), and may not match the contents of the "
+                  "spoiler file. The item may still be obtainable, but the "
+                  "hints to it may not be accurate.",
+    "1035430100": "Drop from enemy south of Fallen Ruins of the Lake. "
+                  "If enemies are randomized, this item may or may not be "
+                  "dropped by the original enemy in its new randomized "
+                  "location (if any), and may not match the contents of the "
+                  "spoiler file. The item may still be obtainable, but the "
+                  "hints to it may not be accurate.",
+    "1043530100": "Drop from enemy in ruins north of Rampartside Path. "
+                  "If enemies are randomized, this item may or may not be "
+                  "dropped by the original enemy in its new randomized "
+                  "location (if any), and may not match the contents of the "
+                  "spoiler file. The item may still be obtainable, but the "
+                  "hints to it may not be accurate.",
+    "1036540100": "Drop from enemy east of Road of Iniquity. "
+                  "If enemies are randomized, this item may or may not be "
+                  "dropped by the original enemy in its new randomized "
+                  "location (if any), and may not match the contents of the "
+                  "spoiler file. The item may still be obtainable, but the "
+                  "hints to it may not be accurate.",
+    "1049550700": "Drop from enemy southeast of Inner Consecrated Snowfield. "
+                  "If enemies are randomized, this item may or may not be "
+                  "dropped by the original enemy in its new randomized "
+                  "location (if any), and may not match the contents of the "
+                  "spoiler file. The item may still be obtainable, but the "
+                  "hints to it may not be accurate.",
     # Vargram the Raging Wolf invasion drop, currently broken by the
     # randomizer v0.5.7
     # Fixed in v0.6
@@ -404,6 +447,11 @@ missableLots_engus = {
     # Fixed in v0.6
     # "102910",
 
+    # Lots that simply don't appear in the game
+    # Glowstone lot attributed to Merchant Kale but does not show up in game
+    "100420": "This appears in the spoilers file as belonging to Merchant "
+              "Kalé, but it does not actually appear in his shop and cannot be "
+              "obtained.",
     # Fix these by adding "norandom ignore" to their lots in itemSlots.txt
     # Neutralizing Boluses 5x, Stanching Boluses, Noble Sorcerer Ashes in
     # lots 1037500000-1037500002 don't actually exist in the world
