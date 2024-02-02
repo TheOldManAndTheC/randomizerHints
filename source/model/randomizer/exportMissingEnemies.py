@@ -37,9 +37,12 @@ candidatesText = "    Potential candidates:\n"
 
 
 # TODO: ON UPDATE: check missing_enemies.txt
-# creates af formatted file of item entries with missing enemy associations and
+# creates a formatted file of item entries with missing enemy associations and
 # possible candidates to be placed in itemFixes
 def exportMissingEnemies(missingEnemies, bossDict, enemyDict):
+    # If there were no randomized enemies, don't export
+    if not enemyDict and not bossDict:
+        return
     missing = dict()
     for itemEntry in missingEnemies:
         enemyName = itemEntry["enemy"]
