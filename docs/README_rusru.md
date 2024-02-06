@@ -49,7 +49,7 @@ Elden Ring Randomizer Hints  --  это приложение Python для Windo
    
 [Mod Engine 2](https://github.com/soulsmods/ModEngine2) (если не использовать встроенный лаунчер в рандомайзере(ах))  
   
-[Elden Ring Item and Enemy Randomizer v0.7.3/v0.8](https://www.nexusmods.com/eldenring/mods/428) и/или [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
+[Elden Ring Item and Enemy Randomizer v0.9](https://www.nexusmods.com/eldenring/mods/428) и/или [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
   
 [Yabber](https://github.com/JKAnderson/Yabber) или WitchyBND[(Nexus Mods)](https://www.nexusmods.com/eldenring/mods/3862)[(Github)](https://github.com/ividyon/WitchyBND) для распаковки и переупаковки файлов игры  
   

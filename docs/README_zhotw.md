@@ -49,7 +49,7 @@ Elden Ring Randomizer Hints 是Windows 的Python 應用程序，它使用Python 
    
 [Mod Engine 2](https://github.com/soulsmods/ModEngine2)（如果不使用隨機產生器中的內建啟動器）  
   
-[Elden Ring Item and Enemy Randomizer v0.7.3/v0.8](https://www.nexusmods.com/eldenring/mods/428) 和/或 [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
+[Elden Ring Item and Enemy Randomizer v0.9](https://www.nexusmods.com/eldenring/mods/428) 和/或 [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
   
 [Yabber](https://github.com/JKAnderson/Yabber) 或 WitchyBND[(Nexus Mods)](https://www.nexusmods.com/eldenring/mods/3862)[(Github)](https://github.com/JKAnderson/Yabber)打包和重新解遊戲遊戲檔案  
   

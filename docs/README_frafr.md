@@ -49,7 +49,7 @@ Une copie installée de [Elden Ring](https://store.steampowered.com/app/1245620/
    
 [Mod Engine 2](https://github.com/soulsmods/ModEngine2) (si vous n'utilisez pas le lanceur intégré dans le(s) randomiseur(s))  
   
-[Elden Ring Item and Enemy Randomizer v0.7.3/v0.8](https://www.nexusmods.com/eldenring/mods/428) et/ou [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
+[Elden Ring Item and Enemy Randomizer v0.9](https://www.nexusmods.com/eldenring/mods/428) et/ou [Elden Ring Fog Gate Randomizer v0.1.7b](https://www.nexusmods.com/eldenring/mods/3295)  
   
 [Yabber](https://github.com/JKAnderson/Yabber) ou WitchyBND[(Nexus Mods)](https://www.nexusmods.com/eldenring/mods/3862)[(Github)](https://github.com/ividyon/WitchyBND) pour décompresser et reconditionner les fichiers du jeu  
   
