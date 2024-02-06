@@ -91,7 +91,7 @@ notRandomized = [
     "Whetstone Knife",
     # Some enemies that aren't randomized
     "Merciless Chariot",
-    "Large Dragonbarrow Dragon",
+    "Greyoll",
     "Balloon",
     "Ensha of the Royal Remains"
 ]

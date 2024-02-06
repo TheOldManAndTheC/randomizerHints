@@ -35,11 +35,11 @@ lotTypes = [
 ]
 
 lotAppends = {
-    " (Good ": {
+    " (Goods ": {
         "key": "good",
         "delimiter": ")"
     },
-    "Good ": {
+    "Goods ": {
         "key": "good",
         "delimiter": "*"
     },

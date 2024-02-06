@@ -92,6 +92,5 @@ missableLots_porbr = {
     "1036540100": "Cai do inimigo a leste de Estrada da Iniquidade.  Se os inimigos forem aleatórios, este item pode ou não ser largado pelo inimigo original em seu novo local aleatório (se houver) e pode não corresponder ao conteúdo do arquivo de spoiler. O item ainda pode ser obtido, mas as dicas sobre ele podem não ser precisas.",
     "1049550700": "Cai do inimigo a sudeste de Campo de Neve Consagrado Interno.  Se os inimigos forem aleatórios, este item pode ou não ser largado pelo inimigo original em seu novo local aleatório (se houver) e pode não corresponder ao conteúdo do arquivo de spoiler. O item ainda pode ser obtido, mas as dicas sobre ele podem não ser precisas.",
     "100420": "Ele aparece no arquivo spoiler como pertencente a Mercador Kalé, mas na verdade não aparece em sua loja e não pode ser obtido.",
-    "1037500000": "Isso aparece no arquivo spoiler como próximo de Vilarejo Oculto da Ravina, mas na verdade não aparece no mundo e não pode ser obtido.",
     "39200000": "Ele aparece no arquivo spoiler como estando no mesmo local que outro item próximo à base do elevador próximo ao Vista das Ruínas do Penhasco, mas na verdade não aparece no mundo e não pode ser obtido.",
 }

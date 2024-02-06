@@ -37,7 +37,7 @@ killQuests = {
         "region": "Caelid"
     },
     "Elder Dragon Grayoll": {
-        "enemy": "Large Dragonbarrow Dragon",
+        "enemy": "Greyoll",
         "replaces": "Dragon Heart 5x",
         "region": "Greyoll's Dragonbarrow - Dragonbarrow Fork"
     },
@@ -67,7 +67,7 @@ killQuests = {
         "region": "Ashen Leyndell"
     },
     "Magma Wyrm behind Fort Laiedd": {
-        "enemy": "Magma Wyrm",
+        "enemy": "Magma Wyrm Boss",
         "replaces": "Dragon Heart",
         "region": "Mt. Gelmir"
     },

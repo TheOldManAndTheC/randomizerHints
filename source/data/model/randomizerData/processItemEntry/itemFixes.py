@@ -48,7 +48,7 @@ itemFixes = [
     # {
     #     # separate Alexander's drops from other living jars
     #     "conditions": {
-    #         "container": "Living Pot",
+    #         "container": "Living Jar Warrior",
     #         "replaces": "Exalted Flesh"
     #     },
     #     "fixes": {
@@ -57,7 +57,7 @@ itemFixes = [
     # },
     # {
     #     "conditions": {
-    #         "container": "Living Pot",
+    #         "container": "Living Jar Warrior",
     #         "replaces": "Exalted Flesh 3x"
     #     },
     #     "fixes": {
@@ -66,7 +66,7 @@ itemFixes = [
     # },
     # {
     #     "conditions": {
-    #         "container": "Living Pot",
+    #         "container": "Living Jar Warrior",
     #         "replaces": "Jar"
     #     },
     #     "fixes": {
@@ -75,7 +75,7 @@ itemFixes = [
     # },
     # {
     #     "conditions": {
-    #         "container": "Living Pot",
+    #         "container": "Living Jar Warrior",
     #         "replaces": "Warrior Jar Shard"
     #     },
     #     "fixes": {
@@ -96,10 +96,362 @@ itemFixes = [
     # enemy entries
     {
         "conditions": {
-            "container": "Rennala, Queen of the Full Moon"
+            "container": "Abductor Virgin (Swinging Sickle)",
+            "containerIDs": ["16000860"],
         },
         "fixes": {
-            "container": "Rennala 1"
+            "container": "Abductor Virgin Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Ancient Hero of Zamor",
+            "containerIDs": ["1042330800"],
+        },
+        "fixes": {
+            "container": "Ancient Hero of Zamor Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Ancient Hero of Zamor",
+            "containerIDs": ["30080800"],
+        },
+        "fixes": {
+            "container": "Ancient Hero of Zamor Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Ancient Hero of Zamor",
+            "containerIDs": ["30170800"],
+        },
+        "fixes": {
+            "container": "Ancient Hero of Zamor Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Astel",
+            "containerIDs": ["12010401"],
+        },
+        "fixes": {
+            "container": "Withered Astel",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Beastman of Farum Azula",
+            "containerIDs": ["31030800"],
+        },
+        "fixes": {
+            "container": "Beastman of Farum Azula Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Beastman of Farum Azula (Cleaver)",
+            "containerIDs": ["31100800"],
+        },
+        "fixes": {
+            "container": "Beastman of Farum Azula Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Black Knife Assassin",
+            "containerIDs": ["1040520800"],
+        },
+        "fixes": {
+            "container": "Black Knife Assassin Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Black Knife Assassin",
+            "containerIDs": ["30110800"],
+        },
+        "fixes": {
+            "container": "Black Knife Assassin Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Black Knife Assassin",
+            "containerIDs": ["30050850"],
+        },
+        "fixes": {
+            "container": "Black Knife Assassin Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Black Knife Assassin",
+            "containerIDs": ["31190800"],
+        },
+        "fixes": {
+            "container": "Invisible Black Knife Assassin Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Bloodhound Knight",
+            "containerIDs": ["31050800"],
+        },
+        "fixes": {
+            "container": "Bloodhound Knight Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Cemetery Shade",
+            "containerIDs": ["30050800"],
+        },
+        "fixes": {
+            "container": "Cemetery Shade and Skeletons",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Cemetery Shade",
+            "containerIDs": ["30000800"],
+        },
+        "fixes": {
+            "container": "Cemetery Shade Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Cemetery Shade",
+            "containerIDs": ["30150800"],
+        },
+        "fixes": {
+            "container": "Cemetery Shade Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Cleanrot Knight (Spear)",
+            "containerIDs": ["31200800"],
+        },
+        "fixes": {
+            "container": "Cleanrot Knight Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Cleanrot Knight",
+            "containerIDs": ["31040800"],
+        },
+        "fixes": {
+            "container": "Cleanrot Knight Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Crucible Knight",
+            "replaces": "Ruins Greatsword"
+        },
+        "fixes": {
+            "container": "Crucible Misbegotten Duo",
+            "containerID": "1051360800"
+        }
+    },
+    {
+        "conditions": {
+            "container": "Crucible Knight",
+            "containerIDs": ["1042370800"],
+        },
+        "fixes": {
+            "container": "Crucible Knight Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Crucible Knight Ordovis",
+            "containerIDs": ["30100800"],
+        },
+        "fixes": {
+            "container": "Crucible Knight Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Crystalian",
+            "containerIDs": ["32020800"],
+        },
+        "fixes": {
+            "container": "Ringblade Crystalian Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Crystalian (Ringblade)",
+            "containerIDs": ["32050800"],
+        },
+        "fixes": {
+            "container": "Crystalian Ringblade Spear Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Crystalian (Staff)",
+            "containerIDs": ["31060800"],
+        },
+        "fixes": {
+            "container": "Crystalian Staff Spear Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Demi-Human Chief",
+            "containerIDs": ["31150800"],
+        },
+        "fixes": {
+            "container": "Demi-Human Chief Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Draconic Tree Sentinel",
+            "containerIDs": ["1045520800"],
+        },
+        "fixes": {
+            "container": "Draconic Tree Sentinel Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Dragonkin Soldier",
+            "containerIDs": ["12010850"],
+        },
+        "fixes": {
+            "container": "Dragonkin Soldier Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Dragonkin Soldier",
+            "containerIDs": ["12020830"],
+        },
+        "fixes": {
+            "container": "Dragonkin Soldier Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Avatar",
+            "containerIDs": ["1038480800"],
+        },
+        "fixes": {
+            "container": "Erdtree Avatar Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Avatar",
+            "containerIDs": ["1033430800"],
+        },
+        "fixes": {
+            "container": "Erdtree Avatar Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Avatar",
+            "containerIDs": ["1043330800"],
+        },
+        "fixes": {
+            "container": "Erdtree Avatar Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Avatar",
+            "containerIDs": ["1052560800"],
+        },
+        "fixes": {
+            "container": "Erdtree Avatar Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Burial Watchdog",
+            "containerIDs": ["30020800"],
+        },
+        "fixes": {
+            "container": "Fire Erdtree Burial Watchdog Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Burial Watchdog",
+            "containerIDs": ["30010800"],
+        },
+        "fixes": {
+            "container": "Erdtree Burial Watchdog and Imps",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Burial Watchdog",
+            "containerIDs": ["30070800"],
+        },
+        "fixes": {
+            "container": "Lightning Erdtree Burial Watchdog Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Burial Watchdog",
+            "containerIDs": ["30060800"],
+        },
+        "fixes": {
+            "container": "Scepter Erdtree Burial Watchdog Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Erdtree Burial Watchdog (Sword)",
+            "containerIDs": ["30140800"],
+        },
+        "fixes": {
+            "container": "Erdtree Burial Watchdog Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Fallingstar Beast",
+            "containerIDs": ["32080800"],
+        },
+        "fixes": {
+            "container": "Regular Fallingstar Beast",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Fallingstar Beast",
+            "containerIDs": ["1041500800"],
+        },
+        "fixes": {
+            "container": "Regular Fallingstar Beast",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Fell Twin",
+            "containerIDs": ["34140850"],
+        },
+        "fixes": {
+            "container": "Fell Twin Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Fire Giant"
+        },
+        "fixes": {
+            "container": "Fire Giant 2"
         }
     },
     {
@@ -122,23 +474,140 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Margit"
+            "container": "Godskin Noble",
+            "containerIDs": ["16000850"],
         },
         "fixes": {
-            # this needs to have "The" capitalized to properly match up with
-            # randomized enemy replacement in the spoilers file.  the Margit
-            # in Stormveil has a lowercase t, the one in the Capital Outskirts
-            # has an uppercase T, and in itemSlots.txt, "Margit" as a full
-            # container name is the one in the Capital Outskirts
-            "container": "Margit, The Fell Omen"
+            "container": "Godskin Noble Boss"
         }
     },
     {
         "conditions": {
-            "container": "Fire Giant"
+            "container": "Grafted Scion",
+            "containerIDs": ["10010800"],
         },
         "fixes": {
-            "container": "Fire Giant 2"
+            "container": "Grafted Scion Boss"
+        }
+    },
+    {
+        "conditions": {
+            "container": "Grave Warden Duelist",
+            "containerIDs": ["30040800"],
+        },
+        "fixes": {
+            "container": "Grave Warden Duelist Boss"
+        }
+    },
+    {
+        "conditions": {
+            "container": "Grave Warden Duelist",
+            "containerIDs": ["30130800"],
+        },
+        "fixes": {
+            "container": "Grave Warden Duelist Boss"
+        }
+    },
+    {
+        "conditions": {
+            "container": "Guardian Golem",
+            "containerIDs": ["31170800"],
+        },
+        "fixes": {
+            "container": "Guardian Golem Boss"
+        }
+    },
+    {
+        "conditions": {
+            "container": "Kindred of Rot",
+            "containerIDs": ["31070800"],
+        },
+        "fixes": {
+            "container": "Kindred of Rot Duo"
+        }
+    },
+    {
+        "conditions": {
+            "container": "Leonine Misbegotten",
+            "containerIDs": ["1043300800"],
+        },
+        "fixes": {
+            "container": "Leonine Misbegotten Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Magma Wyrm",
+            "containerIDs": ["1035530800"],
+        },
+        "fixes": {
+            "container": "Magma Wyrm Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Magma Wyrm",
+            "containerIDs": ["32070800"],
+        },
+        "fixes": {
+            "container": "Magma Wyrm Boss",
+        }
+    },
+    # {
+    #     "conditions": {
+    #         "container": "Margit"
+    #     },
+    #     "fixes": {
+    #         # this needs to have "The" capitalized to properly match up with
+    #         # randomized enemy replacement in the spoilers file.  the Margit
+    #         # in Stormveil has a lowercase t, the one in the Capital Outskirts
+    #         # has an uppercase T, and in itemSlots.txt, "Margit" as a full
+    #         # container name is the one in the Capital Outskirts
+    #         "container": "Margit, The Fell Omen"
+    #     }
+    # },
+    {
+        "conditions": {
+            "container": "Miranda Blossom",
+            "containerIDs": ["31020800"],
+        },
+        "fixes": {
+            "container": "Miranda Blossom and Sprouts",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Miranda the Blighted Bloom",
+            "containerIDs": ["31180800"],
+        },
+        "fixes": {
+            "container": "Miranda Omenkiller Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Misbegotten Warrior",
+            "containerIDs": ["30120800"],
+        },
+        "fixes": {
+            "container": "Misbegotten Perfumer Duo",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Morgott",
+            "containerIDs": ["1043520701"],
+        },
+        "fixes": {
+            "container": "Capital Outskirts Margit",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Night's Cavalry (Glaive)"
+        },
+        "fixes": {
+            "container": "Night's Cavalry",
         }
     },
     {
@@ -153,12 +622,190 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Crucible Knight",
-            "replaces": "Ruins Greatsword"
+            "container": "Omenkiller",
+            "containerIDs": ["1035420800"],
         },
         "fixes": {
-            "container": "Redmane Duo",
-            "containerID": "1051360800"
+            "container": "Omenkiller Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Onyx Lord",
+            "containerIDs": ["34120800"],
+        },
+        "fixes": {
+            "container": "Onyx Lord Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Onyx Lord",
+            "containerIDs": ["1036500800"],
+        },
+        "fixes": {
+            "container": "Onyx Lord Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Putrid Avatar",
+            "containerIDs": ["1047400800"],
+        },
+        "fixes": {
+            "container": "Putrid Avatar Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Putrid Avatar",
+            "containerIDs": ["1050570850"],
+        },
+        "fixes": {
+            "container": "Putrid Avatar Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Putrid Avatar",
+            "containerIDs": ["1051400800"],
+        },
+        "fixes": {
+            "container": "Putrid Avatar Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Putrid Crystalian (Spear)",
+            "containerIDs": ["31110800"],
+        },
+        "fixes": {
+            "container": "Putrid Crystalian Trio",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Putrid Tree Spirit",
+            "containerIDs": ["30160800"],
+        },
+        "fixes": {
+            "container": "Putrid Tree Spirit Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Rennala, Queen of the Full Moon"
+        },
+        "fixes": {
+            "container": "Rennala 1"
+        }
+    },
+    {
+        "conditions": {
+            "container": "Runebear",
+            "containerIDs": ["31010800"],
+        },
+        "fixes": {
+            "container": "Runebear Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Scaly Misbegotten",
+            "containerIDs": ["32000800"],
+        },
+        "fixes": {
+            "container": "Scaly Misbegotten Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Spiritcaller Snail",
+            "containerIDs": ["30030800"],
+        },
+        "fixes": {
+            "container": "Crucible Spiritcaller Snail",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Spiritcaller Snail",
+            "containerIDs": ["31220800"],
+        },
+        "fixes": {
+            "container": "Godskin Spiritcaller Snail",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Tibia Mariner",
+            "containerIDs": ["1039440800"],
+        },
+        "fixes": {
+            "container": "Tibia Mariner Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Tibia Mariner",
+            "containerIDs": ["1045390800"],
+        },
+        "fixes": {
+            "container": "Tibia Mariner Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Tibia Mariner",
+            "containerIDs": ["1038520340"],
+        },
+        "fixes": {
+            "container": "Tibia Mariner Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Ulcerated Tree Spirit",
+            "containerIDs": ["18000800"],
+        },
+        "fixes": {
+            "container": "Ulcerated Tree Spirit Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Ulcerated Tree Spirit",
+            "containerIDs": ["1037540810"],
+        },
+        "fixes": {
+            "container": "Ulcerated Tree Spirit Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Ulcerated Tree Spirit",
+            "containerIDs": ["30180800"],
+        },
+        "fixes": {
+            "container": "Ulcerated Tree Spirit Boss",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Valiant Gargoyle",
+            "containerIDs": ["12020800"],
+        },
+        "fixes": {
+            "container": "Valiant Gargoyles",
+        }
+    },
+    {
+        "conditions": {
+            "container": "Wormface",
+            "containerIDs": ["1041530800"],
+        },
+        "fixes": {
+            "container": "Wormface Boss",
         }
     },
     {
@@ -225,7 +872,7 @@ itemFixes = [
     {
         # enemy missing container ID
         "conditions": {
-            "container": "Living Pot",
+            "container": "Living Jar Warrior",
             "region": "Volcano Manor",
             "directions": "Near Prison Town Church (Site of Grace) - 49.78 "
                           "away in 10 o'clock direction, -44.50 height offset"
@@ -237,7 +884,7 @@ itemFixes = [
     {
         # enemy missing container ID
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Mt. Gelmir - Seethewater Terminus",
             "directions": "Near Fort Laiedd (Fort) - 58.18 away in 5 o'clock "
                           "direction, -11.98 height offset"
@@ -249,21 +896,21 @@ itemFixes = [
     {
         # Jarburg pots aren't randomized
         "conditions": {
-            "container": "Living Pot",
+            "container": "Living Jar Warrior",
             "containerID": "1039440730"
         },
         "fixes": {
-            "newEnemy": "Living Pot",
+            "newEnemy": "Living Jar Warrior",
         }
     },
     {
         # Jarburg pots aren't randomized
         "conditions": {
-            "container": "Living Pot",
+            "container": "Living Jar Warrior",
             "containerID": "1039440731"
         },
         "fixes": {
-            "newEnemy": "Living Pot",
+            "newEnemy": "Living Jar Warrior",
         }
     },
     # some enemies don't have a containerID in the item entry to match up
@@ -518,7 +1165,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Thorn Sorcerer",
+            "container": "Guilty",
             "region": "Liurnia of the Lakes - Artist's Shack, Eastern Liurnia "
                       "Lake Shore",
             "replaces": "Briars of Sin",
@@ -530,7 +1177,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Caelid - Fort Gael, Caelid Waypoint Ruins, Gaol Cave "
                       "Entrance",
             "replaces": "Fire Blossom 3x",
@@ -544,7 +1191,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Caelid - Fort Gael, Caelid Waypoint Ruins, Gaol Cave "
                       "Entrance",
             "replaces": "Fire Blossom 3x",
@@ -558,7 +1205,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Greyoll's Dragonbarrow - Fort Faroth",
             "replaces": "Golden Rune [9]",
             "directions": "Near Fort Faroth (Site of Grace) - 47.16 away in 3 "
@@ -571,7 +1218,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Greyoll's Dragonbarrow - Fort Faroth",
             "replaces": "Golden Rune [9]",
             "directions": "Near Fort Faroth (Site of Grace) - 35.88 away in 3 "
@@ -584,7 +1231,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Greyoll's Dragonbarrow - Fort Faroth",
             "replaces": "Golden Rune [9]",
             "directions": "Near Fort Faroth (Site of Grace) - 27.33 away in 3 "
@@ -597,7 +1244,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Caelid - Gowry's Shack",
             "replaces": "Golden Rune [9]",
             "directions": "Near Gowry's Shack (Shack) - 55.71 away in 5 "
@@ -610,7 +1257,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Caelid - Gowry's Shack",
             "replaces": "Golden Rune [9]",
             "directions": "Near Gowry's Shack (Shack) - 70.00 away in 4 "
@@ -623,7 +1270,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Caelid - Gowry's Shack",
             "replaces": "Golden Rune [9]",
             "directions": "Near Gowry's Shack (Shack) - 40.57 away in 4 "
@@ -636,7 +1283,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Caelid - Gowry's Shack",
             "replaces": "Golden Rune [9]",
             "directions": "Near Gowry's Shack (Shack) - 53.50 away in 1 "
@@ -649,7 +1296,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Caelid - Gowry's Shack",
             "replaces": "Golden Rune [9]",
             "directions": "Near Gowry's Shack (Shack) - 55.25 away in 1 "
@@ -707,7 +1354,7 @@ itemFixes = [
     {
         "conditions": {
             "container": "Giant Ball",
-            "region": "Siofra River",
+            "region": "Nokron, Eternal City",
             "replaces": "Larval Tear",
             "containerIDs": []
         },
@@ -728,7 +1375,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Caelid - Caelem Ruins, Forsaken Ruins, Minor Erdtree, "
                       "Minor Erdtree Catacombs Entrance",
             "containerIDs": []
@@ -739,7 +1386,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Bellum Highway - Church of Inhibition, Southwest of "
                       "Grand Lift of Dectus",
             "containerIDs": []
@@ -750,7 +1397,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Caelid - Deep Siofra Well; Greyoll's Dragonbarrow - "
                       "Dragonbarrow West",
             "containerIDs": []
@@ -761,7 +1408,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Caelid - Fort Gael North",
             "containerIDs": []
         },
@@ -771,7 +1418,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Liurnia of the Lakes - Eastern Tableland, Ainsel River "
                       "Well",
             "containerIDs": []
@@ -782,7 +1429,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Maneuverable Flamethrower",
+            "container": "Flame Chariot",
             "region": "Caelid - Smoldering Wall, Abandoned Cave Entrance",
             "containerIDs": []
         },
@@ -813,7 +1460,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Weeping Peninsula - Castle Morne Approach Northwest "
                       "Cliffside",
             "containerIDs": []
@@ -824,7 +1471,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Caelid - Redmane Castle South Cliffside",
             "containerIDs": []
         },
@@ -834,7 +1481,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Old Woman Bat",
+            "container": "Operatic Bat",
             "region": "Liurnia of the Lakes - Cuckoo's Evergaol, West of "
                       "Meeting Place",
             "containerIDs": []
@@ -845,7 +1492,7 @@ itemFixes = [
     },
     {
         "conditions": {
-            "container": "Battle Mage",
+            "container": "Battlemage",
             "region": "Altus Plateau - West Windmill Pasture",
             "replaces": "Haima Glintstone Crown",
             "containerIDs": []

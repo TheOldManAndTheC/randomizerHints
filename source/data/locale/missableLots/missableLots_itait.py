@@ -92,6 +92,5 @@ missableLots_itait = {
     "1036540100": "Lascialo cadere dal nemico a est di Via dell'iniquità.  Se i nemici sono casuali, questo oggetto potrebbe o meno essere lasciato cadere dal nemico originale nella sua nuova posizione casuale (se presente) e potrebbe non corrispondere al contenuto del file spoiler. L'oggetto potrebbe essere ancora ottenibile, ma i suggerimenti potrebbero non essere accurati.",
     "1049550700": "Lascialo cadere dal nemico a sud-est di Campi di neve consacrati interni.  Se i nemici sono casuali, questo oggetto potrebbe o meno essere lasciato cadere dal nemico originale nella sua nuova posizione casuale (se presente) e potrebbe non corrispondere al contenuto del file spoiler. L'oggetto potrebbe essere ancora ottenibile, ma i suggerimenti potrebbero non essere accurati.",
     "100420": "Questo appare nel file spoiler come appartenente a Mercante Kalé, ma in realtà non appare nel suo negozio e non può essere ottenuto.",
-    "1037500000": "Questo appare nel file spoiler come vicino a Villaggio della gola nascosta, ma in realtà non appare nel mondo e non può essere ottenuto.",
     "39200000": "Questo appare nel file spoiler come se fosse nella stessa posizione di un altro oggetto vicino alla base dell'ascensore accanto a Vista sul precipizio delle rovine, ma in realtà non appare nel mondo e non può essere ottenuto.",
 }

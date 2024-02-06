@@ -455,9 +455,10 @@ missableLots_engus = {
     # Fix these by adding "norandom ignore" to their lots in itemSlots.txt
     # Neutralizing Boluses 5x, Stanching Boluses, Noble Sorcerer Ashes in
     # lots 1037500000-1037500002 don't actually exist in the world
-    "1037500000": "This appears in the spoilers file as being near "
-                  "Ravine-Veiled Village, but it does not actually appear in"
-                  "the world and cannot be obtained.",
+    # Fixed in v0.9
+    # "1037500000": "This appears in the spoilers file as being near "
+    #               "Ravine-Veiled Village, but it does not actually appear in"
+    #               "the world and cannot be obtained.",
     # Golden Rune [1] in Ruin-Strewn Precipice, has the same directions as
     # a Rune Arc with lot 39200080 but does not appear there
     "39200000": "This appears in the spoilers file as being in the same "

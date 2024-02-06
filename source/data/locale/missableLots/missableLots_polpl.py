@@ -92,6 +92,5 @@ missableLots_polpl = {
     "1036540100": "Zrzut od wroga na wschód od Droga Nieprawości.  Jeśli wrogowie są losowi, przedmiot ten może zostać upuszczony przez pierwotnego wroga w jego nowej losowej lokalizacji (jeśli istnieje) lub nie, i może nie odpowiadać zawartości pliku spoilera. Przedmiot może być nadal dostępny, ale wskazówki do niego mogą nie być dokładne.",
     "1049550700": "Zrzuć z wroga na południowy wschód od Dno uświęconej śnieżnej doliny.  Jeśli wrogowie są losowi, przedmiot ten może zostać upuszczony przez pierwotnego wroga w jego nowej losowej lokalizacji (jeśli istnieje) lub nie, i może nie odpowiadać zawartości pliku spoilera. Przedmiot może być nadal dostępny, ale wskazówki do niego mogą nie być dokładne.",
     "100420": "Ten pojawia się w pliku spoiler jako należący do Kupiec Kalé, ale w rzeczywistości nie pojawia się w jego sklepie i nie można go uzyskać.",
-    "1037500000": "To pojawia się w pliku spoiler jako bliskie Wioska w wąwozie, ale w rzeczywistości nie pojawia się na świecie i nie można go uzyskać.",
     "39200000": "Ten przedmiot pojawia się w pliku spoiler jako znajdujący się w tym samym miejscu, co inny przedmiot w pobliżu podstawy windy, obok Widok z urwiska usianego ruinami, ale w rzeczywistości nie pojawia się na świecie i nie można go zdobyć.",
 }

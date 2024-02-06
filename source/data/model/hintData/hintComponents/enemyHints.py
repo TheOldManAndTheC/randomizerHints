@@ -17,14 +17,19 @@
 
 # there may be some outdated enemy names here, and it also may be incomplete
 enemyHints = {
-    "Abductor Virgin (Swinging Sickle)": [
+    "Abductor Virgin": [
         "Abductor Virgin",
         "construct|contraption|device|automaton",
         "enemy|foe"
     ],
-    "Abnormal Stone Cluster": [
-        "Abnormal Stone Cluster",
-        "monster|creature",
+    "Abductor Virgin Duo": [
+        "Abductor Virgin",
+        "construct|contraption|device|automaton",
+        "enemy|foe"
+    ],
+    "Abductor Virgin (Swinging Sickle)": [
+        "Abductor Virgin",
+        "construct|contraption|device|automaton",
         "enemy|foe"
     ],
     "Adan, Thief of Fire": [
@@ -45,35 +50,29 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Albinauric 2": [
-        "Albinauric",
-        "humanoid",
-        "person|someone|monster|creature",
-        "enemy|foe"
-    ],
     "Albinauric Archer": [
         "Albinauric Archer",
         "Albinauric",
         "person|someone",
         "enemy|foe"
     ],
-    "Albinauric Lookout": [
-        "Albinauric Lookout",
-        "Albinauric",
-        "humanoid",
-        "person|someone|monster|creature",
+    "Albinauric Crab": [
+        "Albinauric Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Albinauric Crab, Black Crab, Crab, Death Crab": [
+        "Crab",
+        "crustacean",
+        "beast",
         "enemy|foe"
     ],
     "Alecto, Black Knife Ringleader": [
         "Alecto, Black Knife Ringleader",
         "assassin",
         "person|someone|human",
-        "enemy|foe"
-    ],
-    "Altus Dog": [
-        "Altus Dog",
-        "Dog",
-        "beast",
         "enemy|foe"
     ],
     "Anastasia, Tarnished-Eater": [
@@ -119,6 +118,25 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Ancient Hero of Zamor Boss": [
+        "Ancient Hero of Zamor",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Archer's Wolf": [
+        "Archer's Wolf",
+        "Wolf",
+        "beast",
+        "enemy|foe"
+    ],
+    "Astel": [
+        "Astel",
+        "naturalborn|fallingstar creature|fallingstar monster|"
+        "void creature|void monster|void denizen",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Astel, Naturalborn of the Void": [
         "Astel, Naturalborn of the Void",
         "Astel",
@@ -135,9 +153,15 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Avionette": [
-        "Avionette",
+    "Avionette Soldier": [
+        "Avionette Soldier",
         "construct|contraption|device|automaton",
+        "enemy|foe"
+    ],
+    "Baleful Shadow": [
+        "Baleful Shadow",
+        "shadow|half-wolf",
+        "mighty warrior",
         "enemy|foe"
     ],
     "Balloon": [
@@ -156,20 +180,15 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Bat": [
-        "Bat",
-        "beast|monster|creature",
-        "enemy|foe"
-    ],
-    "Battle Mage": [
-        "Battle Mage",
+    "Battlemage": [
+        "Battlemage",
         "mage|sorcerer|wizard|magician|spellcaster",
         "person|someone|human",
         "enemy|foe"
     ],
     "Battlemage Hugues": [
         "Battlemage Hugues",
-        "Battle Mage",
+        "Battlemage",
         "mage|sorcerer|wizard|magician|spellcaster",
         "person|someone|human",
         "enemy|foe"
@@ -191,7 +210,19 @@ enemyHints = {
         "beast|monster|creature",
         "enemy|foe"
     ],
+    "Beastman of Farum Azula Boss": [
+        "Beastman of Farum Azula",
+        "humanoid",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
     "Beastman of Farum Azula (Cleaver)": [
+        "Beastman of Farum Azula",
+        "humanoid",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Beastman of Farum Azula Duo": [
         "Beastman of Farum Azula",
         "humanoid",
         "beast|monster|creature",
@@ -204,19 +235,6 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
-    "Big Glintstone Miner": [
-        "Glintstone Miner",
-        "Miner",
-        "humanoid",
-        "person|someone|monster|creature",
-        "enemy|foe"
-    ],
-    "Big Wolf": [
-        "Dire Wolf",
-        "Wolf",
-        "beast",
-        "enemy|foe"
-    ],
     "Black Blade Kindred": [
         "Black Blade Kindred",
         "Gargoyle",
@@ -225,31 +243,55 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Black Crab": [
+        "Black Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Blackflame Monk": [
+        "Blackflame Monk",
+        "pyromancer|spellcaster",
+        "person|someone|human",
+        "enemy|foe"
+    ],
     "Black Knife Assassin": [
         "Black Knife Assassin",
         "assassin",
         "person|someone|human",
         "enemy|foe"
     ],
-    "Bladed Talon Eagle": [
-        "Bladed Talon Eagle",
-        "Eagle",
-        "bird|beast",
+    "Black Knife Assassin Boss": [
+        "Black Knife Assassin",
+        "assassin",
+        "person|someone|human",
         "enemy|foe"
     ],
-    "Bleed Dog": [
-        "Bleed Dog",
-        "Dog",
+    "Bloodbane Giant Crow": [
+        "Bloodbane Giant Crow",
+        "bird|monster|creature",
+        "enemy|foe"
+    ],
+    "Bloodbane Stray": [
+        "Bloodbane Stray",
+        "stray",
         "beast|monster|creature",
         "enemy|foe"
     ],
-    "Bleed Dog, Caelid Dog 2, Smaller Dog": [
-        "Small Dog",
-        "Dog",
+    "Bloodbane Stray, Rotten Stray, Stray": [
+        "Stray",
+        "stray",
         "beast|monster|creature",
         "enemy|foe"
     ],
     "Bloodhound Knight": [
+        "Bloodhound Knight",
+        "knight|hunter",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Bloodhound Knight Boss": [
         "Bloodhound Knight",
         "knight|hunter",
         "person|someone|human",
@@ -303,27 +345,11 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Caelid Dog, Dog": [
-        "Dog",
-        "beast|monster|creature",
-        "enemy|foe"
-    ],
-    "Caelid Dog": [
-        "Caelid Dog",
-        "Dog",
-        "beast|monster|creature",
-        "enemy|foe"
-    ],
-    "Caelid Dog 2": [
-        "Caelid Dog",
-        "Dog",
-        "beast|monster|creature",
-        "enemy|foe"
-    ],
-    "Castle Guard": [
-        "Castle Guard",
-        "guard",
-        "person|someone|human",
+    "Capital Outskirts Margit": [
+        "Margit",
+        "Omen",
+        "humanoid",
+        "person|someone|monster|creature",
         "enemy|foe"
     ],
     "Catacombs Skeleton": [
@@ -335,6 +361,20 @@ enemyHints = {
         "enemy|foe"
     ],
     "Cemetery Shade": [
+        "Cemetery Shade",
+        "undead",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Cemetery Shade and Skeletons": [
+        "Cemetery Shade",
+        "undead",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Cemetery Shade Boss": [
         "Cemetery Shade",
         "undead",
         "humanoid",
@@ -360,10 +400,28 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Cleanrot Knight Boss": [
+        "Cleanrot Knight",
+        "knight",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Cleanrot Knight Duo": [
+        "Cleanrot Knight",
+        "knight",
+        "person|someone|human",
+        "enemy|foe"
+    ],
     "Cleanrot Knight (Spear)": [
         "Cleanrot Knight",
         "knight",
         "person|someone|human",
+        "enemy|foe"
+    ],
+    "Colossal Fingercreeper": [
+        "Colossal Fingercreeper",
+        "Fingercreeper",
+        "monster|creature",
         "enemy|foe"
     ],
     "Commander Niall": [
@@ -385,7 +443,25 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Crab": [
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
     "Crucible Knight": [
+        "Crucible Knight",
+        "knight",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Crucible Knight Boss": [
+        "Crucible Knight",
+        "knight",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Crucible Knight Duo": [
         "Crucible Knight",
         "knight",
         "person|someone|human",
@@ -405,6 +481,18 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Crucible Misbegotten Duo": [
+        "Crucible Knight",
+        "knight",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Crucible Spiritcaller Snail": [
+        "Spiritcaller Snail",
+        "Snail",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
     "Crystalian": [
         "Crystalian",
         "humanoid",
@@ -417,7 +505,20 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Crystalian Ringblade Spear Duo": [
+        "Crystalian",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Crystalian (Staff)": [
+        "Crystalian Mage",
+        "Crystalian",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Crystalian Staff Spear Duo": [
         "Crystalian Mage",
         "Crystalian",
         "humanoid",
@@ -443,6 +544,13 @@ enemyHints = {
         "bird|monster|creature",
         "enemy|foe"
     ],
+    "Death Crab": [
+        "Death Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
     "Death Rite Bird": [
         "Death Rite Bird",
         "undead",
@@ -466,14 +574,14 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Demi-Human Beastman": [
-        "Demi-Human Beastman",
+    "Demi-Human Chief": [
+        "Demi-Human Chief",
         "Demi-Human",
         "humanoid",
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Demi-Human Chief": [
+    "Demi-Human Chief Duo": [
         "Demi-Human Chief",
         "Demi-Human",
         "humanoid",
@@ -527,9 +635,11 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
-    "Depraved Perfumer 2": [
-        "Depraved Perfumer",
-        "person|someone|human",
+    "Disciple of Rot": [
+        "Disciple of Rot",
+        "mage|sorcerer|wizard|magician|spellcaster",
+        "humanoid",
+        "person|someone|monster|creature",
         "enemy|foe"
     ],
     "Dominula Celebrant": [
@@ -544,12 +654,26 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Dragonbarrow Dragon": [
-        "dragon",
-        "monster|creature",
+    "Draconic Tree Sentinel Boss": [
+        "Draconic Tree Sentinel",
+        "Tree Sentinel",
+        "knight",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Dragonfly": [
+        "Dragonfly",
+        "insect",
+        "beast|monster|creature",
         "enemy|foe"
     ],
     "Dragonkin Soldier": [
+        "Dragonkin Soldier",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Dragonkin Soldier Boss": [
         "Dragonkin Soldier",
         "humanoid",
         "monster|creature",
@@ -579,6 +703,18 @@ enemyHints = {
         "beast|monster|creature",
         "enemy|foe"
     ],
+    "Elder Albinauric": [
+        "Elder Albinauric",
+        "Albinauric",
+        "humanoid",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Elder Lion": [
+        "Elder Lion",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Elemer of the Briar": [
         "Elemer of the Briar",
         "warrior",
@@ -605,7 +741,29 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Erdtree Avatar Boss": [
+        "Erdtree Avatar",
+        "avatar",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Erdtree Avatar Duo": [
+        "Erdtree Avatar",
+        "avatar",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Erdtree Burial Watchdog": [
+        "Erdtree Burial Watchdog",
+        "construct|contraption|device|automaton",
+        "enemy|foe"
+    ],
+    "Erdtree Burial Watchdog and Imps": [
+        "Erdtree Burial Watchdog",
+        "construct|contraption|device|automaton",
+        "enemy|foe"
+    ],
+    "Erdtree Burial Watchdog Duo": [
         "Erdtree Burial Watchdog",
         "construct|contraption|device|automaton",
         "enemy|foe"
@@ -613,12 +771,6 @@ enemyHints = {
     "Erdtree Burial Watchdog (Sword)": [
         "Erdtree Burial Watchdog",
         "construct|contraption|device|automaton",
-        "enemy|foe"
-    ],
-    "Erdtree Guardian": [
-        "Erdtree Guardian",
-        "guardian",
-        "person|someone|human",
         "enemy|foe"
     ],
     "Errant Sorcerer Wilhelm": [
@@ -629,6 +781,12 @@ enemyHints = {
     ],
     "Esgar, Priest of Blood": [
         "Esgar, Priest of Blood",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Exile Soldier": [
+        "Exile Soldier",
+        "soldier",
         "person|someone|human",
         "enemy|foe"
     ],
@@ -651,15 +809,9 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Farum Azula Dog": [
-        "Farum Azula Dog",
-        "Dog",
-        "beast|monster|creature",
-        "enemy|foe"
-    ],
-    "Farum Azula Dog 2": [
-        "Farum Azula Dog",
-        "Dog",
+    "Farum Azula Stray": [
+        "Farum Azula Stray",
+        "stray",
         "beast|monster|creature",
         "enemy|foe"
     ],
@@ -671,6 +823,14 @@ enemyHints = {
         "enemy|foe"
     ],
     "Fell Twin": [
+        "Fell Twin",
+        "Omen",
+        "warrior",
+        "humanoid",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Fell Twin Duo": [
         "Fell Twin",
         "Omen",
         "warrior",
@@ -698,6 +858,11 @@ enemyHints = {
     "Fingercreeper": [
         "Fingercreeper",
         "monster|creature",
+        "enemy|foe"
+    ],
+    "Fire Erdtree Burial Watchdog Boss": [
+        "Erdtree Burial Watchdog",
+        "construct|contraption|device|automaton",
         "enemy|foe"
     ],
     "Fire Giant": [
@@ -734,6 +899,11 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Flame Chariot": [
+        "Flame Chariot",
+        "person|someone|construct|contraption|device|automaton",
+        "enemy|foe"
+    ],
     "Flame Guardian": [
         "Flame Guardian",
         "pyromancer|spellcaster",
@@ -759,6 +929,11 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Frenzied Merchant": [
+        "Frenzied Merchant",
+        "person|someone|human",
+        "enemy|foe"
+    ],
     "Full-Grown Fallingstar Beast": [
         "Full-Grown Fallingstar Beast",
         "Fallingstar Beast",
@@ -767,33 +942,27 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Fungal Pod": [
-        "Land Squirt",
-        "plant",
-        "monster|creature",
-        "enemy|foe"
-    ],
-    "Fungal Sorcerer": [
-        "Fungal Sorcerer",
-        "mage|sorcerer|wizard|magician|spellcaster",
-        "humanoid",
-        "person|someone|monster|creature",
-        "enemy|foe"
-    ],
     "Gargoyle": [
         "Gargoyle",
         "humanoid",
         "monster|creature",
         "enemy|foe"
     ],
-    "Giant Ant": [
-        "Giant Ant",
-        "insect",
-        "monster|creature",
+    "Giant Albinauric Crab": [
+        "Giant Albinauric Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
         "enemy|foe"
     ],
-    "Giant Ant Sac": [
-        "Giant Ant Sac",
+    "Giant Albinauric Crab, Giant Black Crab, Giant Crab, Giant Death Crab": [
+        "Giant Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Ant": [
         "Giant Ant",
         "insect",
         "monster|creature",
@@ -804,43 +973,62 @@ enemyHints = {
         "construct|contraption|device|automaton",
         "enemy|foe"
     ],
+    "Giant Beast Skeleton": [
+        "Giant Beast Skeleton",
+        "Skeleton",
+        "undead",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Black Crab": [
+        "Giant Black Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Crab": [
+        "Giant Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Crayfish": [
+        "Giant Crayfish",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Crow": [
+        "Giant Crow",
+        "bird|monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Death Crab": [
+        "Giant Albinauric Crab",
+        "Crab",
+        "crustacean",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Dog": [
+        "Giant Dog",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Giant Dragonfly": [
         "Giant Dragonfly",
         "insect",
         "beast|monster|creature",
         "enemy|foe"
     ],
-    "Giant Fungal Pod": [
+    "Giant Land Squirt": [
         "Giant Land Squirt",
         "Land Squirt",
         "plant",
         "monster|creature",
-        "enemy|foe"
-    ],
-    "Giant Lobster": [
-        "Giant Lobster",
-        "crustacean",
-        "beast|monster|creature",
-        "enemy|foe"
-    ],
-    "Giant Miranda Flower": [
-        "Giant Miranda Flower",
-        "Miranda Flower",
-        "plant",
-        "monster|creature",
-        "enemy|foe"
-    ],
-    "Giant Miranda Rot Flower": [
-        "Giant Miranda Rot Flower",
-        "Miranda Rot Flower",
-        "plant",
-        "monster|creature",
-        "enemy|foe"
-    ],
-    "Giant Octopus": [
-        "Giant Octopus",
-        "Octopus",
-        "beast|monster|creature",
         "enemy|foe"
     ],
     "Giant Rat": [
@@ -849,9 +1037,17 @@ enemyHints = {
         "beast|monster|creature",
         "enemy|foe"
     ],
-    "Giant Rotten Pod": [
-        "Giant Rotten Pod",
+    "Giant Rotten Land Squirt": [
+        "Giant Rotten Land Squirt",
         "plant",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Giant Skeleton": [
+        "Giant Skeleton",
+        "Skeleton",
+        "undead",
+        "humanoid",
         "monster|creature",
         "enemy|foe"
     ],
@@ -888,6 +1084,12 @@ enemyHints = {
         "Miner",
         "humanoid",
         "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Glintstone Sorcerer": [
+        "Glintstone Sorcerer",
+        "mage|sorcerer|wizard|magician|spellcaster",
+        "person|someone|human",
         "enemy|foe"
     ],
     "God-Devouring Serpent": [
@@ -944,13 +1146,19 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
-    "Godskin Monk": [
-        "Godskin Monk",
+    "Godskin Spiritcaller Snail": [
+        "Spiritcaller Snail",
+        "Snail",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Godskin Noble": [
+        "Godskin Noble",
         "pyromancer|spellcaster",
         "person|someone|human",
         "enemy|foe"
     ],
-    "Godskin Noble": [
+    "Godskin Noble Boss": [
         "Godskin Noble",
         "pyromancer|spellcaster",
         "person|someone|human",
@@ -968,15 +1176,20 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Grave Skeleton": [
-        "Grave Skeleton",
-        "Skeleton",
-        "undead",
-        "humanoid",
-        "monster|creature",
+    "Grafted Scion Boss": [
+        "Grafted Scion",
+        "grafted",
+        "person|someone|monster|creature",
         "enemy|foe"
     ],
     "Grave Warden Duelist": [
+        "Grave Warden Duelist",
+        "duelist",
+        "warrior",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Grave Warden Duelist Boss": [
         "Grave Warden Duelist",
         "duelist",
         "warrior",
@@ -987,6 +1200,12 @@ enemyHints = {
         "Graven School",
         "mage|sorcerer|wizard|magician|spellcaster",
         "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Great Dragonfly, Yellow Dragonfly": [
+        "Giant Dragonfly",
+        "insect",
+        "beast|monster|creature",
         "enemy|foe"
     ],
     "Great Horned Tragoth": [
@@ -1001,7 +1220,25 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Greyoll": [
+        "Elder Dragon Greyoll",
+        "dragon",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Guardian": [
+        "Guardian",
+        "guardian",
+        "person|someone|human",
+        "enemy|foe"
+    ],
     "Guardian Golem": [
+        "Guardian Golem",
+        "construct|contraption|device|automaton",
+        "humanoid",
+        "enemy|foe"
+    ],
+    "Guardian Golem Boss": [
         "Guardian Golem",
         "construct|contraption|device|automaton",
         "humanoid",
@@ -1010,6 +1247,12 @@ enemyHints = {
     "Guillemot": [
         "Guillemot",
         "bird|beast",
+        "enemy|foe"
+    ],
+    "Guilty": [
+        "Guilty",
+        "pyromancer|spellcaster",
+        "person|someone|human",
         "enemy|foe"
     ],
     "Haligtree Foot Soldier": [
@@ -1066,6 +1309,12 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Invisible Black Knife Assassin Boss": [
+        "Black Knife Assassin",
+        "assassin",
+        "person|someone|human",
+        "enemy|foe"
+    ],
     "Juno Hoslow": [
         "Juno Hoslow",
         "knight",
@@ -1077,8 +1326,8 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
-    "Kaiden Sellsword Horse": [
-        "Kaiden Sellsword Horse",
+    "Kaiden Sellsword's Horse": [
+        "Kaiden Sellsword's Horse",
         "horse",
         "beast",
         "enemy|foe"
@@ -1089,31 +1338,35 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Kindred of Rot Larva": [
-        "Kindred of Rot Larva",
+    "Kindred of Rot Duo": [
+        "Kindred of Rot",
         "insect",
         "monster|creature",
         "enemy|foe"
     ],
-    "Large Crab": [
-        "Giant Crab",
-        "Crab",
-        "crustacean",
+    "Land Octopus": [
+        "Land Octopus",
+        "Octopus",
         "beast|monster|creature",
         "enemy|foe"
     ],
-    "Large Crab, Large Crab 2, Large Crab 3, Large Crab 4": [
-        "Giant Crab",
-        "Crab",
-        "crustacean",
-        "beast|monster|creature",
+    "Land Squirt": [
+        "Land Squirt",
+        "plant",
+        "monster|creature",
         "enemy|foe"
     ],
-    "Large Crab 3": [
-        "Giant Crab",
-        "Crab",
-        "crustacean",
-        "beast|monster|creature",
+    "Large Albinauric": [
+        "Large Albinauric",
+        "Albinauric",
+        "humanoid",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Large Bloodbane Stray": [
+        "Large Bloodbane Stray",
+        "stray",
+        "beast",
         "enemy|foe"
     ],
     "Large Demi-Human": [
@@ -1123,16 +1376,76 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Large Dragonbarrow Dragon": [
-        "Elder Dragon Greyoll",
-        "dragon",
+    "Large Exile Soldier": [
+        "Large Exile Soldier",
+        "soldier",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Large Farum Azula Stray": [
+        "Large Farum Azula Stray",
+        "stray",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Large Glintstone Miner": [
+        "Large Glintstone Miner",
+        "Miner",
+        "humanoid",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Large Putrid Corpse": [
+        "Large Putrid Corpse",
+        "humanoid",
         "monster|creature",
+        "enemy|foe"
+    ],
+    "Large Putrid Flesh": [
+        "Large Putrid Flesh",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Large Rotten Stray": [
+        "Large Rotten Stray",
+        "stray",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Large Rotten Stray, Large Stray": [
+        "Stray",
+        "stray",
+        "beast|monster|creature",
         "enemy|foe"
     ],
     "Large Scarab": [
         "Large Scarab",
         "Scarab",
         "monster|creature",
+        "enemy|foe"
+    ],
+    "Large Stray": [
+        "Large Stray",
+        "stray",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
+    "Large Wormface": [
+        "Large Wormface",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Larva of Rot": [
+        "Larva of Rot",
+        "insect",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Larval Land Octopus": [
+        "Larval Land Octopus",
+        "Octopus",
+        "beast|monster|creature",
         "enemy|foe"
     ],
     "Leonine Misbegotten": [
@@ -1143,10 +1456,20 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Lesser Fingercreeper": [
-        "Lesser Fingercreeper",
-        "Fingercreeper",
-        "monster|creature",
+    "Leonine Misbegotten Boss": [
+        "Leonine Misbegotten",
+        "Misbegotten",
+        "warrior",
+        "humanoid",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Misbegotten Perfumer Duo": [
+        "Leonine Misbegotten",
+        "Misbegotten",
+        "warrior",
+        "humanoid",
+        "person|someone|monster|creature",
         "enemy|foe"
     ],
     "Leyndell Foot Soldier": [
@@ -1173,30 +1496,18 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Lion Guardian": [
-        "Lion Guardian",
-        "monster|creature",
+    "Lightning Erdtree Burial Watchdog Boss": [
+        "Erdtree Burial Watchdog",
+        "construct|contraption|device|automaton",
         "enemy|foe"
     ],
-    "Liurnia Troll": [
-        "Liurnia Troll",
-        "Troll",
-        "humanoid",
-        "person|someone|monster|creature",
-        "enemy|foe"
-    ],
-    "Living Mass": [
-        "Living Mass",
-        "monster|creature",
-        "enemy|foe"
-    ],
-    "Living Mass 2": [
-        "Living Mass",
-        "monster|creature",
-        "enemy|foe"
-    ],
-    "Living Pot": [
+    "Living Jar": [
         "Living Jar",
+        "person|someone|construct|contraption|device|automaton",
+        "enemy|foe"
+    ],
+    "Living Jar Warrior": [
+        "Living Jar Warrior",
         "person|someone|construct|contraption|device|automaton",
         "enemy|foe"
     ],
@@ -1207,6 +1518,16 @@ enemyHints = {
         "enemy|foe"
     ],
     "Mad Pumpkin Head": [
+        "Mad Pumpkin Head",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Mad Pumpkin Head Boss": [
+        "Mad Pumpkin Head",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Mad Pumpkin Head Duo": [
         "Mad Pumpkin Head",
         "person|someone|human",
         "enemy|foe"
@@ -1224,6 +1545,12 @@ enemyHints = {
         "enemy|foe"
     ],
     "Magma Wyrm": [
+        "Magma Wyrm",
+        "dragon",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Magma Wyrm Boss": [
         "Magma Wyrm",
         "dragon",
         "monster|creature",
@@ -1258,28 +1585,15 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Malformed Star": [
-        "Malformed Star",
-        "naturalborn|fallingstar creature|fallingstar monster|"
-        "void creature|void monster|void denizen",
-        "monster|creature",
-        "enemy|foe"
-    ],
-    "Maneuverable Flamethrower": [
-        "Flame Chariot",
-        "person|someone|construct|contraption|device|automaton",
+    "Man-Bat": [
+        "Man-Bat",
+        "Bat",
+        "beast|monster|creature",
         "enemy|foe"
     ],
     "Man-Serpent": [
         "Man-Serpent",
         "serpent",
-        "person|someone|monster|creature",
-        "enemy|foe"
-    ],
-    "Margit": [
-        "Margit",
-        "Omen",
-        "humanoid",
         "person|someone|monster|creature",
         "enemy|foe"
     ],
@@ -1291,8 +1605,8 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Marionette": [
-        "Marionette",
+    "Marionette Soldier": [
+        "Marionette Soldier",
         "construct|contraption|device|automaton",
         "enemy|foe"
     ],
@@ -1314,6 +1628,12 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Merchant's Donkey": [
+        "Merchant's Donkey",
+        "horse",
+        "beast",
+        "enemy|foe"
+    ],
     "Merciless Chariot": [
         "Merciless Chariot",
         "construct|contraption|device|automaton",
@@ -1324,27 +1644,43 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Miranda Blossom": [
-        "Miranda Blossom",
-        "plant",
-        "monster|creature",
+    "Miner": [
+        "Miner",
+        "humanoid",
+        "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Miranda Flower": [
+    "Miranda Blossom": [
+        "Miranda Blossom",
         "Miranda Flower",
         "plant",
         "monster|creature",
         "enemy|foe"
     ],
-    "Miranda Rot Flower": [
-        "Miranda Rot Flower",
+    "Miranda Blossom and Sprouts": [
+        "Miranda Blossom",
+        "Miranda Flower",
+        "plant",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Miranda Omenkiller Duo": [
+        "Miranda Blossom",
+        "Miranda Flower",
+        "plant",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Miranda Sprout": [
+        "Miranda Sprout",
+        "Miranda Flower",
         "plant",
         "monster|creature",
         "enemy|foe"
     ],
     "Miranda the Blighted Bloom": [
         "Miranda the Blighted Bloom",
-        "Giant Miranda Flower",
+        "Miranda Blossom",
         "Miranda Flower",
         "plant",
         "monster|creature",
@@ -1386,27 +1722,19 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Mohgwyn Monstrous Crow": [
-        "Mohgwyn Monstrous Crow",
-        "Monstrous Crow",
-        "bird|monster|creature",
-        "enemy|foe"
-    ],
-    "Monstrous Crow": [
-        "Monstrous Crow",
-        "bird|monster|creature",
-        "enemy|foe"
-    ],
-    "Monstrous Dog": [
-        "Monstrous Dog",
-        "Dog",
-        "monster|creature",
-        "enemy|foe"
-    ],
     "Moongrum, Carian Knight": [
         "Moongrum, Carian Knight",
         "knight",
         "person|someone|human",
+        "enemy|foe"
+    ],
+    # this container name is the Margit that replaces the Commoner in the
+    # Capital Outskirts battlefield
+    "Morgott": [
+        "Margit",
+        "Omen",
+        "humanoid",
+        "person|someone|monster|creature",
         "enemy|foe"
     ],
     "Morgott, the Omen King": [
@@ -1448,12 +1776,6 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
-    "Nomad Mule": [
-        "Nomad Mule",
-        "horse",
-        "beast",
-        "enemy|foe"
-    ],
     "Nox Fighter": [
         "Nox Fighter",
         "warrior",
@@ -1465,21 +1787,15 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
-    "Octopus": [
-        "Octopus",
-        "beast|monster|creature",
+    "Nox Duo": [
+        "Nox Monk",
+        "person|someone|human",
         "enemy|foe"
     ],
     "Old Knight Istvan": [
         "Old Knight Istvan",
         "knight",
         "person|someone|human",
-        "enemy|foe"
-    ],
-    "Old Woman Bat": [
-        "Old Woman Bat",
-        "Bat",
-        "monster|creature",
         "enemy|foe"
     ],
     "Omen": [
@@ -1495,10 +1811,28 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Omenkiller Boss": [
+        "Omenkiller",
+        "hunter",
+        "person|someone|human",
+        "enemy|foe"
+    ],
     "Onyx Lord": [
         "Onyx Lord",
         "humanoid",
         "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Onyx Lord Boss": [
+        "Onyx Lord",
+        "humanoid",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Operatic Bat": [
+        "Operatic Bat",
+        "Bat",
+        "monster|creature",
         "enemy|foe"
     ],
     "Owl": [
@@ -1508,6 +1842,11 @@ enemyHints = {
     ],
     "Page": [
         "Page",
+        "person|someone|human",
+        "enemy|foe"
+    ],
+    "Perfumer": [
+        "Perfumer",
         "person|someone|human",
         "enemy|foe"
     ],
@@ -1523,13 +1862,13 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Putrid Corpse": [
-        "Putrid Corpse",
-        "humanoid",
+    "Putrid Avatar Boss": [
+        "Putrid Avatar",
+        "avatar",
         "monster|creature",
         "enemy|foe"
     ],
-    "Putrid Corpse 2": [
+    "Putrid Corpse": [
         "Putrid Corpse",
         "humanoid",
         "monster|creature",
@@ -1542,6 +1881,18 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Putrid Crystalian Trio": [
+        "Putrid Crystalian",
+        "Crystalian",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Putrid Flesh": [
+        "Putrid Flesh",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Putrid Grave Warden Duelist": [
         "Putrid Grave Warden Duelist",
         "Grave Warden Duelist",
@@ -1551,6 +1902,12 @@ enemyHints = {
         "enemy|foe"
     ],
     "Putrid Tree Spirit": [
+        "Putrid Tree Spirit",
+        "spirit",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Putrid Tree Spirit Boss": [
         "Putrid Tree Spirit",
         "spirit",
         "monster|creature",
@@ -1574,6 +1931,11 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Ram": [
+        "Ram",
+        "beast",
+        "enemy|foe"
+    ],
     "Rat": [
         "Rat",
         "beast",
@@ -1582,12 +1944,6 @@ enemyHints = {
     "Raya Lucaria Foot Soldier": [
         "Raya Lucaria Foot Soldier",
         "soldier",
-        "person|someone|human",
-        "enemy|foe"
-    ],
-    "Raya Lucaria Scholar": [
-        "Raya Lucaria Scholar",
-        "mage|sorcerer|wizard|magician|spellcaster",
         "person|someone|human",
         "enemy|foe"
     ],
@@ -1634,6 +1990,13 @@ enemyHints = {
         "beast|monster|creature",
         "enemy|foe"
     ],
+    "Regular Fallingstar Beast": [
+        "Fallingstar Beast",
+        "naturalborn|fallingstar creature|fallingstar monster|"
+        "void creature|void monster|void denizen",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Rennala, Queen of the Full Moon": [
         "Rennala, Queen of the Full Moon",
         "mage|sorcerer|wizard|magician|spellcaster",
@@ -1652,14 +2015,8 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
-    "Revenant": [
-        "Royal Revenant",
-        "grafted",
-        "person|someone|monster|creature",
-        "enemy|foe"
-    ],
     "Revenant Follower": [
-        "Wraith Caller",
+        "Revenant Follower",
         "mage|sorcerer|wizard|magician|spellcaster",
         "humanoid",
         "person|someone|monster|creature",
@@ -1669,6 +2026,32 @@ enemyHints = {
         "Rileigh the Idle",
         "assassin",
         "person|someone|human",
+        "enemy|foe"
+    ],
+    "Ringblade Crystalian Boss": [
+        "Crystalian",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Rotten Miranda Blossom": [
+        "Rotten Miranda Blossom",
+        "Miranda Flower",
+        "plant",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Rotten Miranda Sprout": [
+        "Rotten Miranda Sprout",
+        "Miranda Flower",
+        "plant",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Rotten Stray": [
+        "Rotten Stray",
+        "stray",
+        "beast|monster|creature",
         "enemy|foe"
     ],
     "Roundtable Knight Vyke": [
@@ -1695,6 +2078,12 @@ enemyHints = {
         "beast|monster|creature",
         "enemy|foe"
     ],
+    "Runebear Boss": [
+        "Runebear",
+        "Bear",
+        "beast|monster|creature",
+        "enemy|foe"
+    ],
     "Rykard, Lord of Blasphemy": [
         "Rykard, Lord of Blasphemy",
         "serpent",
@@ -1707,6 +2096,12 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Sanguine Noble Boss": [
+        "Sanguine Noble",
+        "assassin",
+        "person|someone|human",
+        "enemy|foe"
+    ],
     "Scaly Misbegotten": [
         "Scaly Misbegotten",
         "Misbegotten",
@@ -1714,8 +2109,20 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Scarab": [
-        "Scarab",
+    "Scaly Misbegotten Boss": [
+        "Scaly Misbegotten",
+        "Misbegotten",
+        "humanoid",
+        "person|someone|monster|creature",
+        "enemy|foe"
+    ],
+    "Scepter Erdtree Burial Watchdog Boss": [
+        "Erdtree Burial Watchdog",
+        "construct|contraption|device|automaton",
+        "enemy|foe"
+    ],
+    "Sentry Stone": [
+        "Sentry Stone",
         "monster|creature",
         "enemy|foe"
     ],
@@ -1737,34 +2144,28 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Skull Plate Giant Ant": [
+        "Skull Plate Giant Ant",
+        "Giant Ant",
+        "insect",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Slug": [
         "Slug",
         "beast|monster|creature",
         "enemy|foe"
     ],
-    "Small Crab 2": [
-        "Crab",
-        "crustacean",
-        "beast|monster|creature",
+    "Small Fingercreeper": [
+        "Small Fingercreeper",
+        "Fingercreeper",
+        "monster|creature",
         "enemy|foe"
     ],
-    "Small Crab 3": [
-        "Crystalline Crab",
-        "Crab",
-        "crustacean",
-        "beast|monster|creature",
-        "enemy|foe"
-    ],
-    "Small Crab, Small Crab 2, Small Crab 3, Small Crab 4": [
-        "Crab",
-        "crustacean",
-        "beast",
-        "enemy|foe"
-    ],
-    "Small Living Pot": [
-        "Small Living Jar",
-        "Living Jar",
-        "person|someone|construct|contraption|device|automaton",
+    "Small Flying Dragon": [
+        "Small Flying Dragon",
+        "dragon",
+        "monster|creature",
         "enemy|foe"
     ],
     "Small Oracle Envoy": [
@@ -1774,10 +2175,10 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Smaller Dog": [
-        "Smaller Dog",
-        "Dog",
-        "beast",
+    "Small Scarab": [
+        "Small Scarab",
+        "Scarab",
+        "monster|creature",
         "enemy|foe"
     ],
     "Snail": [
@@ -1785,8 +2186,8 @@ enemyHints = {
         "beast|monster|creature",
         "enemy|foe"
     ],
-    "Snow Troll": [
-        "Snow Troll",
+    "Snowfield Troll": [
+        "Snowfield Troll",
         "Troll",
         "humanoid",
         "person|someone|monster|creature",
@@ -1796,12 +2197,6 @@ enemyHints = {
         "Soldier of Godrick",
         "soldier",
         "person|someone|human",
-        "enemy|foe"
-    ],
-    "Spiritcaller Snail": [
-        "Spiritcaller Snail",
-        "Snail",
-        "beast|monster|creature",
         "enemy|foe"
     ],
     "Spirit Jellyfish": [
@@ -1835,6 +2230,12 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
+    "Stray": [
+        "Stray",
+        "stray",
+        "beast",
+        "enemy|foe"
+    ],
     "Stray Mimic Tear": [
         "Stray Mimic Tear",
         "monster|creature",
@@ -1847,13 +2248,14 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Thorn Sorcerer": [
-        "Thorn Sorcerer",
-        "pyromancer|spellcaster",
-        "person|someone|human",
+    "Tibia Mariner": [
+        "Tibia Mariner",
+        "undead",
+        "humanoid",
+        "monster|creature",
         "enemy|foe"
     ],
-    "Tibia Mariner": [
+    "Tibia Mariner Boss": [
         "Tibia Mariner",
         "undead",
         "humanoid",
@@ -1872,9 +2274,9 @@ enemyHints = {
         "person|someone|monster|creature",
         "enemy|foe"
     ],
-    "Tunnel Miner": [
-        "Tunnel Miner",
-        "Miner",
+    "Troll Knight": [
+        "Troll Knight",
+        "Troll",
         "humanoid",
         "person|someone|monster|creature",
         "enemy|foe"
@@ -1890,7 +2292,21 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
+    "Ulcerated Tree Spirit Boss": [
+        "Ulcerated Tree Spirit",
+        "spirit",
+        "monster|creature",
+        "enemy|foe"
+    ],
     "Valiant Gargoyle": [
+        "Valiant Gargoyle",
+        "Gargoyle",
+        "warrior",
+        "humanoid",
+        "monster|creature",
+        "enemy|foe"
+    ],
+    "Valiant Gargoyles": [
         "Valiant Gargoyle",
         "Gargoyle",
         "warrior",
@@ -1915,18 +2331,31 @@ enemyHints = {
         "person|someone|human",
         "enemy|foe"
     ],
+    "Warhawk": [
+        "Warhawk",
+        "bird|beast",
+        "enemy|foe"
+    ],
+    "White Wolf": [
+        "White Wolf",
+        "Wolf",
+        "beast",
+        "enemy|foe"
+    ],
     "Wild Mouflon": [
         "Wild Mouflon",
         "beast",
         "enemy|foe"
     ],
-    "Wolf": [
-        "Wolf",
-        "beast",
+    "Withered Astel": [
+        "Withered Astel",
+        "Astel",
+        "naturalborn|fallingstar creature|fallingstar monster|"
+        "void creature|void monster|void denizen",
+        "monster|creature",
         "enemy|foe"
     ],
-    "Wolf Pack Leader": [
-        "Wolf Pack Leader",
+    "Wolf": [
         "Wolf",
         "beast",
         "enemy|foe"
@@ -1937,10 +2366,10 @@ enemyHints = {
         "monster|creature",
         "enemy|foe"
     ],
-    "Wormface 2": [
+    "Wormface Boss": [
         "Wormface",
         "humanoid",
         "monster|creature",
         "enemy|foe"
-    ]
+    ],
 }

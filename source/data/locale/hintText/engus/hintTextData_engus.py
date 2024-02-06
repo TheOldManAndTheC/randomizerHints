@@ -21,13 +21,14 @@ enemyPlurals = {
     "Black Blade Kindred": "Black Blade Kindred",
     "Clayman": "Claymen",
     "Deer": "Deer",
-    "Demi-Human Beastman": "Demi-Human Beastmen",
-    "Giant Dragonfly": "Giant Dragonflies",
+    "Dragonfly": "Dragonflies",
+    "Giant Crayfish": "Giant Crayfishes",
+    "Guilty": "Guilty",
     "Highwayman": "Highwaymen",
     "Kindred of Rot": "Kindred of Rot",
-    "Kindred of Rot Larva": "Kindred of Rot Larvae",
+    "Larva of Rot": "Larvae of Rot",
     "Leonine Misbegotten": "Leonine Misbegotten",
-    "Living Mass": "Living Masses",
+    "Putrid Flesh": "Putrid Flesh",
     "Misbegotten": "Misbegotten",
     "Night's Cavalry": "Night's Cavalry",
     "Octopus": "Octopi",
@@ -37,8 +38,7 @@ enemyPlurals = {
     "Soldier of Godrick": "Soldiers of Godrick",
     "Spirit Jellyfish": "Spirit Jellyfish",
     "Vulgar Militiaman": "Vulgar Militiamen",
-    "Wolf Pack Leader": "Wolf Pack Leaders",
-    "Wolf": "Wolves"
+    "Wolf": "Wolves",
 }
 
 itemPlurals = {

@@ -181,7 +181,19 @@ def loadItemSlots(itemSlotsLines):
             line = line[index:]
 
             # lot (container list)
-            index = line.find("]")
+            # Since the enemy names are now in square brackets instead of angle
+            # brackets, we need to keep track of bracket depth to get the
+            # complete lot
+            index = 1
+            bracketLevel = 0
+            while True:
+                if line[index] == "[":
+                    bracketLevel += 1
+                if line[index] == "]":
+                    bracketLevel -= 1
+                    if bracketLevel < 0:
+                        break
+                index += 1
             lot = line[1:index]
             line = line[index + 2:]  # also remove the space after the lot
 
@@ -223,7 +235,7 @@ def loadItemSlots(itemSlotsLines):
                 if lot[0] == "(":
                     index = lot.find(")")
                     # some enemies have parentheses in their names
-                    if index < len(lot) - 1 and lot[index + 1] == ">" and \
+                    if index < len(lot) - 1 and lot[index + 1] == "]" and \
                             lot[index + 2] == ")":
                         index += 2
                     containerEntry["container"] = lot[1:index]  # skip (
@@ -246,12 +258,12 @@ def loadItemSlots(itemSlotsLines):
                                 not in containerIDsList:
                             containerIDsList.append(
                                 containerEntry["containerID"])
-                        # <> contains a more complete name
-                        if splitLine[1].find("<") != -1:
+                        # [] contains a more complete name
+                        if splitLine[1].find("[") != -1:
                             containerEntry["rawContainerName"] = \
                                 containerEntry["containerName"]
                             containerEntry["containerName"] = \
-                                splitLine[1].split("<")[1].split(">")[0]
+                                splitLine[1].split("[")[1].split("]")[0]
                     # or there may be just a group ID, don't need it
                     elif containerEntry["container"].find(" - group ") \
                             != -1:

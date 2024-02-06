@@ -1737,7 +1737,7 @@ regionHints = {
         "exceptions": [
             {
                 "replaces": "Fire Blossom 3x",
-                "enemy": "Maneuverable Flamethrower",
+                "enemy": "Flame Chariot",
                 "hintRegion": "the Great Lake of Liurnia",
                 "hintArea": "Academy Gate Town"
             },
@@ -1815,7 +1815,7 @@ regionHints = {
         "hintArea": "Jarburg",
         "exceptions": [
             {
-                "container": "Living Pot",
+                "container": "Living Jar Warrior",
                 "hintRegion": "eastern Liurnia",
                 "hintArea": "Jarburg"
             },

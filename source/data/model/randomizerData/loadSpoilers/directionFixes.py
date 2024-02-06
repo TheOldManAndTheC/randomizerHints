@@ -31,7 +31,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Golden Rune [9]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -43,7 +43,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Golden Rune [10]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -55,7 +55,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Golden Rune [11]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -67,7 +67,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Nascent Butterfly 3x",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -79,7 +79,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Smithing Stone [4]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -91,7 +91,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Smithing Stone [5]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -105,7 +105,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Somber Smithing Stone [6]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -117,7 +117,7 @@ directionFixes = [
     {
         "conditions": {
             "replaces": "Rune Arc",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -147,7 +147,7 @@ directionFixes = [
         # falls, use the inside location
         "conditions": {
             "replaces": "Seedbed Curse",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Robed Corpse, Shiny Item",
             "directions": ""
         },
@@ -228,7 +228,7 @@ directionFixes = [
         "one_time": True,
         "conditions": {
             "replaces": "Furlcalling Finger Remedy",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -241,7 +241,7 @@ directionFixes = [
         "one_time": True,
         "conditions": {
             "replaces": "Furlcalling Finger Remedy",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -256,7 +256,7 @@ directionFixes = [
         "one_time": True,
         "conditions": {
             "replaces": "Smithing Stone [6]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },
@@ -269,7 +269,7 @@ directionFixes = [
         "one_time": True,
         "conditions": {
             "replaces": "Smithing Stone [6]",
-            "region": "Leyndell, Royal Capital",
+            "region": "Leyndell",
             "container": "Corpse",
             "directions": ""
         },

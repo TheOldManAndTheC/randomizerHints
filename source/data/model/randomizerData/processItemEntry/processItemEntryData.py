@@ -90,7 +90,7 @@ npcNames = {
     # Gelmir's Fury
     "Knight Bernahl, Recusant Bernahl, Shiny Item": "Knight Bernahl",
     "Knight Diallos": "Knight Diallos",
-    "Large Living Pot": "The Great-Jar",
+    "Greatjar": "The Great-Jar",
     "Latenna the Albinauric": "Latenna the Albinauric",
     "Lightseeker Hyetta": "Lightseeker Hyetta",
     "Lusat": "Master Lusat",

@@ -92,6 +92,5 @@ missableLots_spaes = {
     "1036540100": "Caída del enemigo al este de Camino de la iniquidad.  Si los enemigos son aleatorios, este elemento puede o no ser arrojado por el enemigo original en su nueva ubicación aleatoria (si corresponde) y puede no coincidir con el contenido del archivo de spoiler. Es posible que el artículo aún se pueda obtener, pero es posible que las sugerencias no sean precisas.",
     "1049550700": "Caída del enemigo al sureste de Interior del campo sacroníveo.  Si los enemigos son aleatorios, este elemento puede o no ser arrojado por el enemigo original en su nueva ubicación aleatoria (si corresponde) y puede no coincidir con el contenido del archivo de spoiler. Es posible que el artículo aún se pueda obtener, pero es posible que las sugerencias no sean precisas.",
     "100420": "Esto aparece en el archivo spoiler como perteneciente a Comerciante Kale, pero en realidad no aparece en su tienda y no se puede obtener.",
-    "1037500000": "Esto aparece en el archivo spoiler cerca de Aldea oculta en el desfiladero, pero en realidad no aparece en el mundo y no se puede obtener.",
     "39200000": "Esto aparece en el archivo spoiler como en la misma ubicación que otro elemento cerca de la base del ascensor junto a Mirador de Despeñarruinas, pero en realidad no aparece en el mundo y no se puede obtener.",
 }
