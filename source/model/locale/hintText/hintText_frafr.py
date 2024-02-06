@@ -29,6 +29,9 @@ def hintText_frafr(components, localeData):
             return text
         if text in localeData:
             return localeData[text]
+        # outText = text.replace("\"", "\\\"").replace("\n", "\\n")
+        # with open("missingLocalizations.txt", "a", encoding="utf8") as fd:
+        #     fd.write("    \"{}\": \"{}\",\n".format(outText, outText))
         return text
 
     # Assemblez le nom de l'élément d'indice qui apparaît dans les listes

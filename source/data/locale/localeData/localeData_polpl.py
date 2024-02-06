@@ -7054,6 +7054,8 @@ localeData_polpl = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Dodatek Fargate Wrighta.\nNotatki o kluczach do dzwonnicy.",
     "Voidfarer's Journal": "Dziennik Voidfarera",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Dziennik Voidfarera.\nRelacja mieszkańca Pustki, uwięzionego w najgłębszej otchłani przez magię księżyca.",
+    "The Castellan's Orders": "Rozkazy kasztelana",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "Rozkazy kasztelana.\nSurowo sformułowane polecenie kasztelana dla niedbałego odźwiernego.",
     # obiekty podpowiedzi
     "account": "konto",
     "album": "album",

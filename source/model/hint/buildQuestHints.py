@@ -123,7 +123,7 @@ def buildQuestHints(allHintEntries, randomized, params):
                 continue
             itemEntry = randomized[hintEntryDict["lotItems"][0]][0]
             # if there's a free lot there, add the lotID to the hint entry dict
-            if not "isShop" in itemEntry and \
+            if "isShop" not in itemEntry and \
                     freeRange(itemEntry["lotID"], params["ItemLotParam_map"]):
                 hintEntryDict["lotID"] = itemEntry["lotID"]
             # if there's no free lot and there's an alternate lot ID, use that

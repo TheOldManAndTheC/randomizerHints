@@ -306,9 +306,11 @@ fogPreexistingTransitions = [
     "in map",
     "instead of entering the sanctuary, dropping down to the left",
     "instead of entering the sanctuary, dropping down to the right",
-    "jumping into the lava behind the Sending Gate. this requires some vigor and flasks",
+    "jumping into the lava behind the Sending Gate. this requires some vigor "
+    "and flasks",
     "jumping over the balcony",
-    "jumping to the stairs west of the Dragon Temple grace and dropping down again",
+    "jumping to the stairs west of the Dragon Temple grace and dropping down "
+    "again",
     "opening the door",
     "opening the door after the boss",
     "opening the doors to the Church of Cuckoo",

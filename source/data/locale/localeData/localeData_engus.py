@@ -7086,6 +7086,8 @@ localeData_engus = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.",
     "Voidfarer's Journal": "Voidfarer's Journal",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.",
+    "The Castellan's Orders": "The Castellan's Orders",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.",
     # hint objects
     "account": "account",
     "album": "album",

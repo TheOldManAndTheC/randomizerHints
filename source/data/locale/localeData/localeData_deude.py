@@ -7033,6 +7033,8 @@ localeData_deude = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Die Nachträge von Fargate Wright.\nNotizen zu den Schlüsseln zu den Glockenturmtoren.",
     "Voidfarer's Journal": "Tagebuch des Leerenfahrers",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Tagebuch des Leerenfahrers.\nBericht über einen Bewohner der Leere, der durch die Zauberei des Mondes in der tiefsten Grube gefangen ist.",
+    "The Castellan's Orders": "Die Befehle des Kastellans",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "Die Befehle des Kastellans.\nEine streng formulierte Anweisung des Kastellans an einen nachlässigen Pförtner.",
     # Hinweisobjekte
     "account": "Konto",
     "album": "Album",

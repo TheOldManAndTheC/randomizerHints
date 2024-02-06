@@ -7053,6 +7053,8 @@ localeData_zhocn = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "法盖特赖特的附录。\n关于钟楼大门钥匙的注释。",
     "Voidfarer's Journal": "虚空者的日记",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "虚空者的日记。\n讲述了一位虚空居民被月亮魔法困在最深的深坑中的故事。",
+    "The Castellan's Orders": "城主的命令",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "城主的命令。\n城主向松懈的看门人发出的措辞严厉的指令。",
     # 提示对象
     "account": "帐户",
     "album": "专辑",

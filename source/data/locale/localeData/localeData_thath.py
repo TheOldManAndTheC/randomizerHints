@@ -6897,6 +6897,8 @@ localeData_thath = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "ภาคผนวกของ ฟาร์เกต ไรท์\nสัญลักษณ์เกี่ยวกับกุญแจประตูหอระฆัง",
     "Voidfarer's Journal": "บันทึกของ ผู้เป็นโมฆะ",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "บันทึกของ ผู้เป็นโมฆะ\nเรื่องราวของผู้อาศัยอันว่างเปล่า ติดอยู่ในหลุมที่ลึกที่สุดด้วยเวทมนตร์แห่งดวงจันทร์",
+    "The Castellan's Orders": "คำสั่งของคาสเทลลัน",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "คำสั่งของคาสเทลลัน\nคำสั่งที่เคร่งครัดจากปราสาทถึงคนเฝ้าประตูที่หละหลวม",
     # วัตถุคำใบ้
     "account": "บัญชี",
     "album": "อัลบั้ม",

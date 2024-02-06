@@ -29,6 +29,9 @@ def hintText_polpl(components, localeData):
             return text
         if text in localeData:
             return localeData[text]
+        # outText = text.replace("\"", "\\\"").replace("\n", "\\n")
+        # with open("missingLocalizations.txt", "a", encoding="utf8") as fd:
+        #     fd.write("    \"{}\": \"{}\",\n".format(outText, outText))
         return text
 
     # Ułóż nazwę podpowiedzi, która pojawia się na listach ekwipunku.

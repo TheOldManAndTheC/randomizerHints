@@ -30,7 +30,7 @@ nearbyHints = [
         "areaName": "flamepeak|mountaintops|mountaintops_sol",
         "gateText": "using the Rold Medallion at Mountaintops of the Giants",
         "hintItems": ["Rold Medallion"],
-        "hintName": "A Hero's Tragedy",
+        "hintName": "Hero's Tragedy",
         "hintDescription": "Hero's Tragedy.\nTale of a hero who reached the "
                            "mountaintops but perished.",
         "hintIconTypes": ["book", "scroll"]
@@ -57,7 +57,7 @@ nearbyHints = [
         "areaName": "bellum|liurnia|liurnia_manor",
         "gateText": "using South Raya Lucaria Gate",
         "hintItems": ["Academy Glintstone Key"],
-        "hintName": "The Burgher's Document",
+        "hintName": "Burgher's Document",
         "hintDescription": "Burgher's Document.\nInformation about a key to "
                            "the Academy prepared for a town official.",
         "hintIconTypes": ["book", "map", "scroll"]
@@ -116,8 +116,8 @@ nearbyHints = [
     {
         "lotIDs": ["10080"],
         "hintItems": ["Dark Moon Ring"],
-        "hintName": "A Voidfarer's Journal",
-        "hintDescription": "A Voidfarer's Journal.\nAccount of a void denizen, "
+        "hintName": "Voidfarer's Journal",
+        "hintDescription": "Voidfarer's Journal.\nAccount of a void denizen, "
                            "trapped in the deepest pit by sorcery of the moon.",
         "hintIconTypes": ["note", "map"]
     },

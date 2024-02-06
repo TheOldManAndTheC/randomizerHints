@@ -28,6 +28,9 @@ def hintText_korkr(components, localeData):
             return text
         if text in localeData:
             return localeData[text]
+        # outText = text.replace("\"", "\\\"").replace("\n", "\\n")
+        # with open("missingLocalizations.txt", "a", encoding="utf8") as fd:
+        #     fd.write("    \"{}\": \"{}\",\n".format(outText, outText))
         return text
 
     # 인벤토리 목록에 나타나는 힌트 아이템의 이름을 모아보세요.

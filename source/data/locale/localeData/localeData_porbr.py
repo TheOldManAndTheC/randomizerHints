@@ -6958,6 +6958,8 @@ localeData_porbr = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Adendos do Fargate Wright.\nAnotações sobre as chaves dos portões do campanário.",
     "Voidfarer's Journal": "Diário do Voidfarer",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Diário do Voidfarer.\nRelato de um habitante do vazio, preso no poço mais profundo pela feitiçaria da lua.",
+    "The Castellan's Orders": "As Ordens do Castelão",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "As Ordens do Castelão.\nUma diretriz severamente formulada pelo castelão para um porteiro negligente.",
     # objetos de dica
     "account": "conta",
     "album": "álbum",

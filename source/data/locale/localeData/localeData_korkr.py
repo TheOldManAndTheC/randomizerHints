@@ -7086,6 +7086,8 @@ localeData_korkr = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "파게이트 라이트의 부록.\n종탑 문 열쇠에 대한 표기입니다.",
     "Voidfarer's Journal": "공허여행자의 일지",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "공허여행자의 일지.\n달의 마법으로 인해 가장 깊은 구덩이에 갇힌 공허 거주자에 대한 이야기입니다.",
+    "The Castellan's Orders": "카스텔란의 명령",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "카스텔란의 명령.\n성주가 허술한 문지기에게 보내는 엄중한 지시.",
     # 힌트 개체
     "account": "계정",
     "album": "앨범",

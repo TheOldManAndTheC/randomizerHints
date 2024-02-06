@@ -83,7 +83,7 @@ goods = {
     "8174": "Academy Glintstone Key (Thops)",
     "8127": "Letter from Volcano Manor (Istvan)",
     "8132": "Letter from Volcano Manor (Rileigh)",
-    # "8975": "Unalloyed Gold Needle (Broken)",
+    "8975": "Unalloyed Gold Needle (Broken)",
     "8976": "Unalloyed Gold Needle (Fixed)",
     "8196": "Unalloyed Gold Needle (Milicent)",
     "8155": "Lord of Blood's Favor (Blooded)"

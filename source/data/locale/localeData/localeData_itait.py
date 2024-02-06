@@ -6967,6 +6967,8 @@ localeData_itait = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Gli addenda di Fargate Wright.\nAnnotazioni sulle chiavi delle porte del campanile.",
     "Voidfarer's Journal": "Diario del Viaggiatore del Vuoto",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Diario del Viaggiatore del Vuoto.\nRacconto di un abitante del Vuoto, intrappolato nella fossa più profonda dalla stregoneria della luna.",
+    "The Castellan's Orders": "Gli ordini del castellano",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "Gli ordini del castellano.\nUna direttiva formulata in modo severo dal castellano a un guardiano negligente.",
     # suggerire oggetti
     "account": "account",
     "album": "album",

@@ -6966,6 +6966,8 @@ localeData_rusru = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Дополнения Фаргейта Райта.\nЗаметки о ключах от ворот звонницы.",
     "Voidfarer's Journal": "Журнал Путешественника Бездны",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Журнал Путешественника Бездны.\nРассказ об обитателе Бездны, запертом в глубочайшей яме магией Луны.",
+    "The Castellan's Orders": "Приказы Кастеляна",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "Приказы Кастеляна.\nСтрого сформулированное указание кастеляна слабому привратнику.",
     # объекты-подсказки
     "account": "счет",
     "album": "альбом",

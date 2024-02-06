@@ -30,6 +30,9 @@ def hintText_itait(components, localeData):
             return text
         if text in localeData:
             return localeData[text]
+        # outText = text.replace("\"", "\\\"").replace("\n", "\\n")
+        # with open("missingLocalizations.txt", "a", encoding="utf8") as fd:
+        #     fd.write("    \"{}\": \"{}\",\n".format(outText, outText))
         return text
 
     # Assembla il nome dell'elemento suggerimento che appare negli elenchi

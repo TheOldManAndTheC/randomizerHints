@@ -27,6 +27,9 @@ def hintText_zhocn(components, localeData):
             return text
         if text in localeData:
             return localeData[text]
+        # outText = text.replace("\"", "\\\"").replace("\n", "\\n")
+        # with open("missingLocalizations.txt", "a", encoding="utf8") as fd:
+        #     fd.write("    \"{}\": \"{}\",\n".format(outText, outText))
         return text
 
     # 组合出现在库存列表中的提示项目的名称。

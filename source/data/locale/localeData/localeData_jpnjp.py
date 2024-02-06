@@ -7086,6 +7086,8 @@ localeData_jpnjp = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Fargate Wright の付録。\n鐘楼門の鍵についての表記。",
     "Voidfarer's Journal": "ヴォイドフェアラーの日記",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "ヴォイドフェアラーの日記。\n月の魔術によって最も深い穴に閉じ込められた虚無の住人の物語。",
+    "The Castellan's Orders": "城主の命令",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "城主の命令。\n緩い門番に対する城主からの厳しい言葉の指令。",
     # ヒントオブジェクト
     "account": "アカウント",
     "album": "アルバム",

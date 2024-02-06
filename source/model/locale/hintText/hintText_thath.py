@@ -28,6 +28,9 @@ def hintText_thath(components, localeData):
             return text
         if text in localeData:
             return localeData[text]
+        # outText = text.replace("\"", "\\\"").replace("\n", "\\n")
+        # with open("missingLocalizations.txt", "a", encoding="utf8") as fd:
+        #     fd.write("    \"{}\": \"{}\",\n".format(outText, outText))
         return text
 
     # รวบรวมชื่อของรายการคำใบ้ที่ปรากฏในรายการสินค้าคงคลัง

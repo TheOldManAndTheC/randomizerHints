@@ -6973,6 +6973,8 @@ localeData_frafr = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Les addenda de Fargate Wright.\nNotations sur les clés des portes du beffroi.",
     "Voidfarer's Journal": "Journal du voyageur du Vide",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Journal du voyageur du Vide.\nRécit d'un habitant du vide, piégé dans la fosse la plus profonde par la sorcellerie de la lune.",
+    "The Castellan's Orders": "Les ordres du Castellan",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "Les ordres du Castellan.\nUne directive sévère du châtelain à un gardien laxiste.",
     # objets d'indice
     "account": "compte",
     "album": "album",

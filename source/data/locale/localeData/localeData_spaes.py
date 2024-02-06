@@ -7054,6 +7054,8 @@ localeData_spaes = {
     "The Fargate Wright's Addenda.\nNotations about the keys to the belfry gates.": "Anexo de Fargate Wright.\nAnotaciones sobre las llaves de las puertas del campanario.",
     "Voidfarer's Journal": "Diario del viajero del vacío",
     "Voidfarer's Journal.\nAccount of a void denizen, trapped in the deepest pit by sorcery of the moon.": "Diario del viajero del vacío.\nRelato de un habitante del vacío, atrapado en el pozo más profundo por la brujería de la luna.",
+    "The Castellan's Orders": "Las Órdenes del Castellano",
+    "The Castellan's Orders.\nA sternly worded directive from the castellan to a lax gatekeeper.": "Las Órdenes del Castellano.\nUna directiva redactada con severidad del castellano a un portero laxo.",
     # objetos de pista
     "account": "cuenta",
     "album": "álbum",

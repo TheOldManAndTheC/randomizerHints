@@ -40,6 +40,7 @@ def loadSpoilers(spoilerLines):
     bossDict = dict()
     enemyDict = dict()
     directionFixes = deepcopy(dF.directionFixes)
+    enemyPlacementsStarted = False
     enemyPlacementsDone = False
     regularEnemyPlacements = False
     lineIter = iter(spoilerLines)
@@ -66,6 +67,11 @@ def loadSpoilers(spoilerLines):
             continue
 
         # switch from boss enemy placements to regular enemy placements
+        if line.startswith("-- Boss placements"):
+            enemyPlacementsStarted = True
+            continue
+
+        # switch from boss enemy placements to regular enemy placements
         if line.startswith("-- Basic placements"):
             regularEnemyPlacements = True
             continue
@@ -76,7 +82,8 @@ def loadSpoilers(spoilerLines):
             continue
 
         # Boss and enemy placements
-        if not enemyPlacementsDone and line.startswith("Replacing "):
+        if enemyPlacementsStarted and not enemyPlacementsDone and \
+                line.startswith("Replacing "):
             splitLine = line.split(" (#", 1)
             replacedEnemy = splitLine[0][10:]  # skip "Replacing "
             line = splitLine[1]
