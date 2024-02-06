@@ -852,7 +852,8 @@ class RandomizerHintsModel(mtk.Model):
         # redirected, and it doesn't play well with pyinstaller -noconsole,
         # so just suppress all output pipes
         if witchyArgs:
-            result = self._shellCmd(command, output=False, stdout=None, stderr=None)
+            result = self._shellCmd(command, output=False, stdout=None,
+                                    stderr=None)
         else:
             result = self._shellCmd(command, output=False)
         # Yabber error catch
