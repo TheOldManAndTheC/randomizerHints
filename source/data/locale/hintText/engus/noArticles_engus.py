@@ -288,6 +288,7 @@ noArticles = {
     "the mother of Zorayas",
     "The Great-Jar",
     "the Noble Goldmask",
+    "The Noble Goldmask",
     "Goldmask",
     "Twin Maiden Husks",
     "Smithing Master Iji",

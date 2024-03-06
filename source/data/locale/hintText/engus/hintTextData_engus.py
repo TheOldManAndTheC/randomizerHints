@@ -21,6 +21,7 @@ enemyPlurals = {
     "Black Blade Kindred": "Black Blade Kindred",
     "Clayman": "Claymen",
     "Deer": "Deer",
+    "Disciple of Rot": "Disciples of Rot",
     "Dragonfly": "Dragonflies",
     "Giant Crayfish": "Giant Crayfishes",
     "Guilty": "Guilty",

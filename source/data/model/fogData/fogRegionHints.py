@@ -703,7 +703,7 @@ fogRegionHints = {
     "424034000": "Leyndell",  # Somber Smithing Stone [4] - SE 57h -2v
     "482000400": "Leyndell",  # Omensmirk Mask - NNE 18h 1v
     # landmark9 - East Capital Rampart
-    "11000000": "Leyndell",  # Magic Grease 3x - N 85h -7v
+    "11000000": "Leyndell Lift",  # Magic Grease 3x - N 85h -7v
     "11000010": "Leyndell",  # Furlcalling Finger Remedy - NNE 93h -5v
     "11000030": "Leyndell",  # Smithing Stone [4] - S 75h -20v
     "11000040": "Leyndell",  # Golden Rune [7] - S 120h -20v
