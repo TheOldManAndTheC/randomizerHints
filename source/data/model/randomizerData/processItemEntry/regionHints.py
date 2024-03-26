@@ -527,7 +527,7 @@ regionHints = {
         "hintArea": "Frenzied Flame Village",
         "exceptions": [
             {
-                "enemy": "Erdtree Avatar",
+                "replaces": "Lightning-Shrouding Cracked Tear",
                 "hintRegion": "eastern Liurnia",
                 "hintArea": "the Minor Erdtree"
             },

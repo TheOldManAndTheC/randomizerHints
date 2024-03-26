@@ -3490,7 +3490,9 @@ fogGateLots = {
         "before Morgott's arena": {
             "hintName": "throne fog",
             "lotIDs": [
-                "11001000",  # bed near Queen's Bedchamber
+                # if the ashen version of this lot is picked up first, the
+                # normal version won't appear
+                # "11001000",  # bed near Queen's Bedchamber
                 "11000015",  # chest W and above Erdtree Sanctuary*
                 "11000025",  # ledge W/SW and above Erdtree Sanctuary*
                 "11000910",  # chair near and above Erdtree Sanctuary*
@@ -3504,7 +3506,9 @@ fogGateLots = {
         "accessed from an open window on a second-floor rooftop": {
             "hintName": "sanctuary fog",
             "lotIDs": [
-                "11001000",  # bed near Queen's Bedchamber
+                # if the ashen version of this lot is picked up first, the
+                # normal version won't appear
+                # "11001000",  # bed near Queen's Bedchamber
                 "11000015",  # chest W and above Erdtree Sanctuary*
                 "11000025",  # ledge W/SW and above Erdtree Sanctuary*
                 "11000910",  # chair near and above Erdtree Sanctuary*
@@ -3817,7 +3821,9 @@ fogGateLots = {
         "before Hoarah Loux's arena": {
             "hintName": "throne fog",
             "lotIDs": [
-                "11050000",  # bed near Queen's Bedchamber
+                # if the ashen version of this lot is picked up first, the
+                # normal version won't appear
+                # "11050000",  # bed near Queen's Bedchamber
                 "11000015",  # chest W and above Erdtree Sanctuary*
                 "11000025",  # ledge W/SW and above Erdtree Sanctuary*
                 "11000910",  # chair near and above Erdtree Sanctuary*
@@ -3831,7 +3837,9 @@ fogGateLots = {
         "from an open window on a second-floor rooftop": {
             "hintName": "sanctuary fog",
             "lotIDs": [
-                "11050000",  # bed near Queen's Bedchamber
+                # if the ashen version of this lot is picked up first, the
+                # normal version won't appear
+                # "11050000",  # bed near Queen's Bedchamber
                 "11000015",  # chest W and above Erdtree Sanctuary*
                 "11000025",  # ledge W/SW and above Erdtree Sanctuary*
                 "11000910",  # chair near and above Erdtree Sanctuary*
