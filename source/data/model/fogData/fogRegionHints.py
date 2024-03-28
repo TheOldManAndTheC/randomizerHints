@@ -1706,7 +1706,7 @@ fogRegionHints = {
     "34140000": "Leyndell Tower",  # Invigorating White Cured Meat - W 251h 112v
     "34140010": "Leyndell Tower",  # Official's Attire - SW 80h 20v
     "34140720": "Leyndell Tower",  # Somber Smithing Stone [6] - W 195h 113v
-    "34140800": "Leyndell Tower",  # Golden Rune [9] - SSE 206h -287v
+    "34140800": "The Darkness",  # Golden Rune [9] - SSE 206h -287v
     "34140810": "Leyndell Tower",  # Blade of Calling - SW 91h 21v
     # region249 - the eastern Mountaintops of the Giants
     # landmark1 - Whiteridge Road
