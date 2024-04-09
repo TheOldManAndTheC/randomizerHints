@@ -1,52 +1,52 @@
 {
     "activeCategories": {
         "generalCategories": [
+            "Lord",
             "Exploring",
             "Smithing",
             "Recovery",
             "Offense",
             "Defense",
+            "Medium Shields",
+            "Small Shields",
+            "Spirits",
             "Greed",
             "Magic",
             "Gravity",
-            "Staff",
-            "Medium Shield",
-            "Small Shield",
-            "Spirits",
-            "Sorcerer",
-            "Lord"
+            "Staves",
+            "Sorcerer"
         ],
         "chestCategories": [
+            "Lord",
             "Exploring",
             "Smithing",
             "Recovery",
             "Offense",
             "Defense",
+            "Medium Shields",
+            "Small Shields",
+            "Spirits",
             "Greed",
             "Magic",
             "Gravity",
-            "Staff",
-            "Medium Shield",
-            "Small Shield",
-            "Sorcerer",
-            "Spirits",
-            "Lord"
+            "Staves",
+            "Sorcerer"
         ],
         "bossCategories": [
+            "Lord",
             "Exploring",
             "Smithing",
             "Recovery",
             "Offense",
             "Defense",
+            "Medium Shields",
+            "Small Shields",
+            "Spirits",
             "Greed",
             "Magic",
             "Gravity",
-            "Staff",
-            "Medium Shield",
-            "Small Shield",
-            "Spirits",
-            "Sorcerer",
-            "Lord"
+            "Staves",
+            "Sorcerer"
         ]
     },
     "bossFogHintsPercent": 100.0,
@@ -192,7 +192,7 @@
             "Crystalian Ashes": {},
             "Demi-Human Ashes": {},
             "Depraved Perfumer Carmaan": {},
-            "Dolores the Sleeping Arrow Puppet": {},
+            "Lalka Dolores, \u015api\u0105cej Strza\u0142y": {},
             "Duelist Greaves": {},
             "Duelist Helm": {},
             "Dung Eater Puppet": {},
@@ -281,7 +281,7 @@
             "Mausoleum Soldier Ashes": {},
             "Mimic Tear Ashes": {},
             "Miranda Sprout Ashes": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Nepheli Loux Puppet": {},
@@ -422,7 +422,7 @@
             "Sacramental Bud": {
                 "drop": true
             },
-            "Sacred Butchering Knife": {},
+            "\u015awi\u0119ty n\u00f3\u017c rze\u017anika": {},
             "Sacred Tear": {},
             "Sacrificial Axe": {},
             "Sanctuary Stone": {
@@ -487,7 +487,7 @@
             "Bloodrose": {
                 "drop": true
             },
-            "Blue Dancer Charm": {},
+            "\u0421\u0438\u043d\u0438\u0439 \u0430\u043c\u0443\u043b\u0435\u0442 \u0442\u0430\u043d\u0446\u043e\u0432\u0449\u0438\u0446\u044b": {},
             "Briar Armor": {},
             "Briar Gauntlets": {},
             "Briar Greaves": {},
@@ -496,6 +496,7 @@
                 "drop": true
             },
             "Cipher Pata": {},
+            "Claw Talisman": {},
             "Coded Sword": {},
             "Coil Shield": {},
             "Cracked Crystal": {
@@ -572,7 +573,7 @@
             },
             "Missionary's Cookbook [4]": {},
             "Mohg's Shackle": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Mushroom Crown": {},
@@ -1008,7 +1009,7 @@
             "Bloodrose": {
                 "drop": true
             },
-            "Bloodstained Dagger": {},
+            "\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0435 \u043f\u044f\u0442\u043d\u043e \u041a\u0438\u043d\u0436\u0430\u043b": {},
             "Bloody Helice": {},
             "Briar Greatshield": {},
             "Briars of Punishment": {},
@@ -1042,10 +1043,10 @@
             "Moonveil": {},
             "Morgott's Cursed Sword": {},
             "Morning Star": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
-            "Nightrider Flail": {},
+            "Korbacz Nocnego Je\u017ad\u017aca": {},
             "Nomadic Warrior's Cookbook [24]": {},
             "Nomadic Warrior's Cookbook [6]": {},
             "Radagon Icon": {},
@@ -1170,7 +1171,7 @@
             "Miranda Powder": {
                 "drop": true
             },
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Mushroom Crown": {},
@@ -1246,7 +1247,7 @@
             "Flight Pinion": {
                 "drop": true
             },
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Radagon Icon": {},
@@ -1343,7 +1344,7 @@
                 "drop": true
             },
             "Mohgwyn's Sacred Spear": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Noble Presence": {},
@@ -1436,7 +1437,7 @@
             "Miquellan Knight's Sword": {},
             "Missionary's Cookbook [1]": {},
             "Missionary's Cookbook [4]": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Omen Bairn": {},
@@ -1674,7 +1675,7 @@
             "Lightning Spear": {},
             "Lightning Strike": {},
             "Lightning-Shrouding Cracked Tear": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Placidusax's Ruin": {},
@@ -1793,7 +1794,7 @@
             },
             "Missionary's Cookbook [1]": {},
             "Missionary's Cookbook [5]": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Nomadic Warrior's Cookbook [12]": {},
@@ -1930,7 +1931,7 @@
             "Highland Axe": {},
             "Roar Medallion": {},
             "Rusted Anchor": {},
-            "Sacred Butchering Knife": {},
+            "\u015awi\u0119ty n\u00f3\u017c rze\u017anika": {},
             "Shard of Alexander": {},
             "Spiked Club": {},
             "Spiked Cracked Tear": {},
@@ -1942,7 +1943,7 @@
             "Warped Axe": {},
             "Warrior Jar Shard": {}
         },
-        "Axe": {
+        "Axes": {
             "Hand Axe": {},
             "Forked Hatchet": {},
             "Battle Axe": {},
@@ -1976,7 +1977,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Claw": {
+        "Claws": {
             "Hookclaws": {},
             "Bloodhound Claws": {},
             "Venomous Fang": {},
@@ -1991,8 +1992,8 @@
             "Ash of War: Parry": {},
             "Ash of War: War Cry": {}
         },
-        "Colossal Sword": {
-            "Zweihander": {},
+        "Colossal Swords": {
+            "Claymore": {},
             "Greatsword": {},
             "Watchdog's Greatsword": {},
             "Troll's Golden Sword": {},
@@ -2023,7 +2024,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Waves of Darkness": {}
         },
-        "Colossal Weapon": {
+        "Colossal Weapons": {
             "Duelist Greataxe": {},
             "Rotten Greataxe": {},
             "Golem's Halberd": {},
@@ -2059,7 +2060,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Waves of Darkness": {}
         },
-        "Curved Greatsword": {
+        "Curved Greatswords": {
             "Dismounter": {},
             "Omen Cleaver": {},
             "Monk's Flameblade": {},
@@ -2096,7 +2097,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Curved Sword": {
+        "Curved Swords": {
             "Scimitar": {},
             "Falchion": {},
             "Shamshir": {},
@@ -2139,12 +2140,12 @@
             "Ash of War: War Cry": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Dagger": {
+        "Daggers": {
             "Dagger": {},
             "Parrying Dagger": {},
             "Mis\u00e9ricorde": {},
             "Great Knife": {},
-            "Bloodstained Dagger": {},
+            "\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0435 \u043f\u044f\u0442\u043d\u043e \u041a\u0438\u043d\u0436\u0430\u043b": {},
             "Erdsteel Dagger": {},
             "Wakizashi": {},
             "Celebrant's Sickle": {},
@@ -2180,7 +2181,7 @@
             "Ash of War: Sword Dance": {},
             "Ash of War: Vacuum Slice": {}
         },
-        "Fist": {
+        "Fists": {
             "Caestus": {},
             "Spiked Caestus": {},
             "Katar": {},
@@ -2198,9 +2199,9 @@
             "Ash of War: Parry": {},
             "Ash of War: War Cry": {}
         },
-        "Flail": {
+        "Flails": {
             "Flail": {},
-            "Nightrider Flail": {},
+            "Korbacz Nocnego Je\u017ad\u017aca": {},
             "Chainlink Flail": {},
             "Family Heads": {},
             "Bastard's Stars": {}
@@ -2222,7 +2223,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Greataxe": {
+        "Greataxes": {
             "Axe of Godrick": {},
             "Crescent Moon Axe": {},
             "Executioner's Greataxe": {},
@@ -2232,7 +2233,7 @@
             "Greataxe": {},
             "Longhaft Axe": {},
             "Rusted Anchor": {},
-            "Sacred Butchering Knife": {},
+            "\u015awi\u0119ty n\u00f3\u017c rze\u017anika": {},
             "Winged Greathorn": {}
         },
         "Greataxe Ashes": {
@@ -2259,7 +2260,7 @@
             "Ash of War: Waves of Darkness": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Great Hammer": {
+        "Great Hammers": {
             "Large Club": {},
             "Curved Great Club": {},
             "Great Mace": {},
@@ -2297,8 +2298,8 @@
             "Ash of War: Waves of Darkness": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Great Spear": {
-            "Lance": {},
+        "Great Spears": {
+            "Lanza grande": {},
             "Treespear": {},
             "Siluria's Tree": {},
             "Vyke's War Spear": {},
@@ -2330,7 +2331,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Waves of Darkness": {}
         },
-        "Greatsword": {
+        "Greatswords": {
             "Bastard Sword": {},
             "Claymore": {},
             "Iron Greatsword": {},
@@ -2383,7 +2384,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Halberd": {
+        "Halberds": {
             "Halberd": {},
             "Banished Knight's Halberd": {},
             "Lucerne": {},
@@ -2428,7 +2429,7 @@
             "Ash of War: Sword Dance": {},
             "Ash of War: War Cry": {}
         },
-        "Hammer": {
+        "Hammers": {
             "Club": {},
             "Curved Club": {},
             "Envoy's Horn": {},
@@ -2463,7 +2464,7 @@
             "Ash of War: War Cry": {},
             "Ash of War: Wild Strikes": {}
         },
-        "Heavy Thrusting Sword": {
+        "Heavy Thrusting Swords": {
             "Bloody Helice": {},
             "Dragon King's Cragblade": {},
             "Godskin Stitcher": {},
@@ -2494,7 +2495,7 @@
             "Ash of War: Troll's Roar": {},
             "Ash of War: Vacuum Slice": {}
         },
-        "Katana": {
+        "Katanas": {
             "Dragonscale Blade": {},
             "Hand of Malenia": {},
             "Meteoric Ore Blade": {},
@@ -2532,7 +2533,7 @@
             "Ash of War: Vacuum Slice": {},
             "Ash of War: War Cry": {}
         },
-        "Reaper": {
+        "Reapers": {
             "Scythe": {},
             "Grave Scythe": {},
             "Halo Scythe": {},
@@ -2555,7 +2556,7 @@
             "Ash of War: Sword Dance": {},
             "Ash of War: War Cry": {}
         },
-        "Seal": {
+        "Seals": {
             "Finger Seal": {},
             "Erdtree Seal": {},
             "Golden Order Seal": {},
@@ -2566,7 +2567,7 @@
             "Frenzied Flame Seal": {},
             "Dragon Communion Seal": {}
         },
-        "Spear": {
+        "Spears": {
             "Short Spear": {},
             "Iron Spear": {},
             "Spear": {},
@@ -2610,7 +2611,7 @@
             "Ash of War: Sword Dance": {},
             "Ash of War: War Cry": {}
         },
-        "Staff": {
+        "Staves": {
             "Astrologer's Staff": {},
             "Glintstone Staff": {},
             "Academy Glintstone Staff": {},
@@ -2631,7 +2632,7 @@
             "Prince of Death's Staff": {},
             "Ash of War: Spinning Weapon": {}
         },
-        "Straight Sword": {
+        "Straight Swords": {
             "Broadsword": {},
             "Cane Sword": {},
             "Carian Knight's Sword": {},
@@ -2681,13 +2682,12 @@
             "Ash of War: Vacuum Slice": {},
             "Ash of War: War Cry": {}
         },
-        "Thrusting Sword": {
+        "Thrusting Swords": {
             "Antspur Rapier": {},
             "Cleanrot Knight's Sword": {},
             "Estoc": {},
             "Frozen Needle": {},
-            "Noble's Estoc": {},
-            "Rapier": {}
+            "Noble's Estoc": {}
         },
         "Thrusting Sword Ashes": {
             "Ash of War: Assassin's Gambit": {},
@@ -2711,7 +2711,7 @@
             "Ash of War: Storm Blade": {},
             "Ash of War: Vacuum Slice": {}
         },
-        "Twinblade": {
+        "Twinblades": {
             "Twinblade": {},
             "Twinned Knight Swords": {},
             "Godskin Peeler": {},
@@ -2752,7 +2752,7 @@
             "Ash of War: Vacuum Slice": {},
             "Ash of War: War Cry": {}
         },
-        "Whip": {
+        "Whips": {
             "Whip": {},
             "Thorned Whip": {},
             "Urumi": {},
@@ -2760,11 +2760,11 @@
             "Magma Whip Candlestick": {},
             "Giant's Red Braid": {}
         },
-        "Ballista": {
+        "Ballistae": {
             "Hand Ballista": {},
             "Jar Cannon": {}
         },
-        "Bow": {
+        "Bows": {
             "Longbow": {},
             "Albinauric Bow": {},
             "Black Bow": {},
@@ -2777,7 +2777,7 @@
             "Ash of War: Rain of Arrows": {},
             "Ash of War: Sky Shot": {}
         },
-        "Crossbow": {
+        "Crossbows": {
             "Soldier's Crossbow": {},
             "Light Crossbow": {},
             "Heavy Crossbow": {},
@@ -2786,7 +2786,7 @@
             "Pulley Crossbow": {},
             "Full Moon Crossbow": {}
         },
-        "Greatbow": {
+        "Greatbows": {
             "Greatbow": {},
             "Golem Greatbow": {},
             "Erdtree Greatbow": {},
@@ -2794,7 +2794,7 @@
             "Ash of War: Rain of Arrows": {},
             "Ash of War: Through and Through": {}
         },
-        "Light Bow": {
+        "Light Bows": {
             "Shortbow": {},
             "Composite Bow": {},
             "Red Branch Shortbow": {},
@@ -2806,7 +2806,7 @@
             "Ash of War: Rain of Arrows": {},
             "Ash of War: Sky Shot": {}
         },
-        "Medium Shield": {
+        "Medium Shields": {
             "Ash of War: Barricade Shield": {},
             "Ash of War: Carian Retaliation": {},
             "Ash of War: Golden Parry": {},
@@ -2846,7 +2846,7 @@
             "Silver Mirrorshield": {},
             "Great Turtle Shell": {}
         },
-        "Small Shield": {
+        "Small Shields": {
             "Ash of War: Barricade Shield": {},
             "Ash of War: Carian Retaliation": {},
             "Ash of War: Golden Parry": {},
@@ -2876,7 +2876,7 @@
             "Smoldering Shield": {},
             "Coil Shield": {}
         },
-        "Greatshield": {
+        "Greatshields": {
             "Ash of War: Barricade Shield": {},
             "Ash of War: Holy Ground": {},
             "Ash of War: No Skill": {},
@@ -2909,7 +2909,7 @@
             "Visage Shield": {},
             "One-Eyed Shield": {}
         },
-        "Torch": {
+        "Torches": {
             "Ash of War: No Skill": {},
             "Torch": {},
             "Beast-Repellent Torch": {},
@@ -2941,7 +2941,7 @@
             "Ash of War: Thunderbolt": {},
             "Ash of War: White Shadow's Lure": {}
         },
-        "Ash of War": {
+        "Ashes of War": {
             "Ash of War: Assassin's Gambit": {},
             "Ash of War: Barbaric Roar": {},
             "Ash of War: Barrage": {},
@@ -3294,7 +3294,7 @@
             "Missionary's Cookbook [1]": {},
             "Missionary's Cookbook [4]": {},
             "Missionary's Cookbook [5]": {},
-            "Mushroom": {
+            "Bolt": {
                 "drop": true
             },
             "Navy Hood": {},
@@ -3551,21 +3551,21 @@
         }
     },
     "maidenItems": {
+        "Lord": {
+            "isCategory": true,
+            "quantity": 3
+        },
+        "Exploring": {
+            "isCategory": true,
+            "quantity": 3
+        },
         "Carian Slicer": {
             "isItem": true
         },
         "Glintstone Pebble": {
             "isItem": true
         },
-        "Exploring": {
-            "isCategory": true,
-            "quantity": 3
-        },
         "Sorcerer": {
-            "isCategory": true,
-            "quantity": 3
-        },
-        "Lord": {
             "isCategory": true,
             "quantity": 3
         }
