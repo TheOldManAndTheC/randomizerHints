@@ -61,11 +61,15 @@ missableLots_engus = {
     # Living Jar Shard
     "449020001": "Drop from one of the Large Living Pots in Jarburg. Can be "
                  "missed if you don't wish to kill peaceful NPCs.",
-    # "449020002", # Raw Meat Dumpling
+    # Raw Meat Dumpling
+    "449020002": "Drop from one of the Large Living Pots in Jarburg. Can be "
+                 "missed if you don't wish to kill peaceful NPCs.",
     # Living Jar Shard
     "449020011": "Drop from one of the Large Living Pots in Jarburg. Can be "
                  "missed if you don't wish to kill peaceful NPCs.",
-    # "449020012", # Raw Meat Dumpling
+    # Raw Meat Dumpling
+    "449020012": "Drop from one of the Large Living Pots in Jarburg. Can be "
+                 "missed if you don't wish to kill peaceful NPCs.",
     # Sellen and Jerren's lots, can only get one or the other
     # Ancient Dragon Smithing Stone, Jerren gift after beating Sellen
     "104000": "Given by Jerren after helping him defeat Sellen. Can be missed "
@@ -79,24 +83,24 @@ missableLots_engus = {
     # Glintstone Kris, gift after talking to her
     "101010": "Given by Sellen after assisting her against Jerren. Can be "
               "missed if you side with Jerren.",
-    # Shard Spiral, in Sellen's Shop at the end of her questline
-    "100056": "Available in Sellen's shop after assisting her against Jerren. "
-              "Can be missed if you side with Jerren.",
     # Sellen's reward for freeing Master Lusat could be softlocked by having
     # the Sellian Sealbreaker as the reward or as Lusat's gift
     # Starlight Shards
     "101030": "Given by Sellen for finding Lusat. Can be missed if the Sellian "
               "Sealbreaker is held by Lusat or is otherwise unobtainable.",
     # Witch's Glintstone Crown, if she never turns into a mass
+    # there are three lot IDs in itemslots
+    "101061": "Appears near Sellen after she transforms at the end of her "
+              "quest. Can be missed if you side with Jerren or are unable to "
+              "obtain her reward for finding Lusat.",
     "101070": "Appears near Sellen after she transforms at the end of her "
+              "quest. Can be missed if you side with Jerren or are unable to "
+              "obtain her reward for finding Lusat.",
+    "111001": "Appears near Sellen after she transforms at the end of her "
               "quest. Can be missed if you side with Jerren or are unable to "
               "obtain her reward for finding Lusat.",
     # Corhyn/Goldmask quest items, can miss these if the Erdtree must be burned
     # to get Law of Regression
-    # Immutable Shield, Corhyn's shop after Radagon puzzle
-    "100361": "Available in Corhyn's shop after unmasking Radagon's statue. "
-              "Can be missed if the Law of Regression is unobtainable before "
-              "burning the Erdtree.",
     # Mending Rune of Perfect Order
     "4900": "Drop from Goldmask at the end of his quest. Can be missed if the "
             "Law of Regression is unobtainable before burning the Erdtree.",
@@ -206,8 +210,13 @@ missableLots_engus = {
     # "114211", # Stormhawk Axe
     # Hyetta's drop can't be obtained if you complete her quest
     # Frenzyflame Stone 3x, drop from killing her
-    "110810": "Drop from Hyetta if you kill her. Can be missed if you complete "
-              "her quest.",
+    # the drop from killing her and the drop from finishing her quest here
+    # appear to be the same in the spoiler file, so this is not missable
+    # # this has two lot IDs in itemslots
+    # "110810": "Drop from Hyetta if you kill her. Can be missed if you complete "
+    #           "her quest.",
+    # "100891": "Drop from Hyetta if you kill her. Can be missed if you complete "
+    #           "her quest.",
     # Frenzied Flame Seal, quest reward
     "100890": "Drop from Hyetta at the end of her quest. Can be missed if you "
               "kill her before then.",
@@ -261,10 +270,6 @@ missableLots_engus = {
     "100500": "Given by Gostoc after confronting him when he follows you "
               "through the castle. Can be missed if defeating the boss of "
               "Stormveil Castle is required to reach Stormveil Castle.",
-    # Gostoc's quest completion can be softlocked if Nepheli's is
-    # Ancient Dragon Smithing Stone
-    "100018": "Available in Gostoc's shop after completing Nepheli's quest. "
-              "Can be missed if you are unable to complete Nepheli's quest.",
     # Ranni's quest can be softlocked if one of her later quest items is
     # required to get an earlier one
     # Carian Inverted Statue
@@ -289,14 +294,6 @@ missableLots_engus = {
     "101450": "Given by Seluvis after giving him the Amber Starlight. Can be "
               "missed if it is unobtainable before giving Ranni the "
               "Fingerslayer Blade.",
-    # Dolores the Sleeping Arrow Puppet
-    "100301": "Available in Seluvis's puppet shop after giving Seluvis's "
-              "Potion to Nepheli. Can be missed if you don't give her the "
-              "potion.",
-    # Dung Eater Puppet
-    "100310": "Available in Seluvis's puppet shop after giving Seluvis's "
-              "Potion to Dung Eater. Can be missed if you don't give him the "
-              "potion.",
     # # These two aren't listed in the spoilers file, so it seems the randomzier
     # # prevents these from being an issue
     # # Pidia drops one of two puppet ashes depending on whether Nepheli was
@@ -311,22 +308,6 @@ missableLots_engus = {
     #           "don't give Nepheli the potion.",
     # Gowry can have his quest softlocked if either he or Millicent have items
     # needed in earlier stages of their quests
-    # Glintstone Stars
-    "100177": "Available in Gowry's shop after giving Millicent the Unalloyed "
-              "Gold Needle (Fixed). Can be missed if it is held by Gowry, "
-              "Millicent, or her sisters.",
-    # Night Shard
-    "100175": "Available in Gowry's shop after giving Millicent the Unalloyed "
-              "Gold Needle (Fixed). Can be missed if it is held by Gowry, "
-              "Millicent, or her sisters.",
-    # Night Maiden's Mist
-    "100176": "Available in Gowry's shop after giving Millicent the Unalloyed "
-              "Gold Needle (Fixed). Can be missed if it is held by Gowry, "
-              "Millicent, or her sisters.",
-    # Pest Threads
-    "100185": "Available in Gowry's shop after giving Millicent the Valkyrie's "
-              "Prosthesis. Can be missed if it is held by Gowry, Millicent, or "
-              "her sisters.",
     # Unalloyed Gold Needle (fixed)
     "103100": "Given by Gowry after giving him the Unalloyed Gold Needle "
               "(Broken). Can be missed if it is held by Gowry, Millicent, or "
@@ -465,4 +446,42 @@ missableLots_engus = {
                 "location as another item near the base of the elevator next "
                 "to Ruin-Strewn Precipice Overlook, but it does not actually "
                 "appear in the world and cannot be obtained.",
+}
+
+missableShopLots_engus = {
+    # Shard Spiral, in Sellen's Shop at the end of her questline
+    "100056": "Available in Sellen's shop after assisting her against Jerren. "
+              "Can be missed if you side with Jerren.",
+    # Immutable Shield, Corhyn's shop after Radagon puzzle
+    "100361": "Available in Corhyn's shop after unmasking Radagon's statue. "
+              "Can be missed if the Law of Regression is unobtainable before "
+              "burning the Erdtree.",
+    # Gostoc's quest completion can be softlocked if Nepheli's is
+    # Ancient Dragon Smithing Stone
+    "100018": "Available in Gostoc's shop after completing Nepheli's quest. "
+              "Can be missed if you are unable to complete Nepheli's quest.",
+    # Dolores the Sleeping Arrow Puppet
+    "100301": "Available in Seluvis's puppet shop after giving Seluvis's "
+              "Potion to Nepheli. Can be missed if you don't give her the "
+              "potion.",
+    # Dung Eater Puppet
+    "100310": "Available in Seluvis's puppet shop after giving Seluvis's "
+              "Potion to Dung Eater. Can be missed if you don't give him the "
+              "potion.",
+    # Glintstone Stars
+    "100177": "Available in Gowry's shop after giving Millicent the Unalloyed "
+              "Gold Needle (Fixed). Can be missed if it is held by Gowry, "
+              "Millicent, or her sisters.",
+    # Night Shard
+    "100175": "Available in Gowry's shop after giving Millicent the Unalloyed "
+              "Gold Needle (Fixed). Can be missed if it is held by Gowry, "
+              "Millicent, or her sisters.",
+    # Night Maiden's Mist
+    "100176": "Available in Gowry's shop after giving Millicent the Unalloyed "
+              "Gold Needle (Fixed). Can be missed if it is held by Gowry, "
+              "Millicent, or her sisters.",
+    # Pest Threads
+    "100185": "Available in Gowry's shop after giving Millicent the Valkyrie's "
+              "Prosthesis. Can be missed if it is held by Gowry, Millicent, or "
+              "her sisters.",
 }

@@ -30,7 +30,7 @@ from source.data.model.randomizerData.killQuests import killQuests
 # item's new location. Also return the random seed from the spoiler file and a
 # list of missable items to display to the user.
 def processRandomized(itemSlotsLines, mapNamesLines, annotationsLines,
-                      spoilerLines, missableLots):
+                      spoilerLines, missableLots, missableShopLots):
     # Generate the dictionary of randomized items from the spoilers file
     seed, randomized, bossDict, enemyDict = loadSpoilers(spoilerLines)
     # get itemslots.txt and areas data structures to get item/location
@@ -80,13 +80,17 @@ def processRandomized(itemSlotsLines, mapNamesLines, annotationsLines,
                 else:
                     questItems[enemyName].append(itemEntry)
             # if the item is easily missed, add it to the missable items list
-            if itemEntry["lotID"] in missableLots:
+            if "isShop" in itemEntry:
+                selectedMissableLots = missableShopLots
+            else:
+                selectedMissableLots = missableLots
+            if itemEntry["lotID"] in selectedMissableLots:
                 if itemEntry["newItem"] in missable:
                     missable[itemEntry["newItem"]] += \
-                        "\n\n" + missableLots[itemEntry["lotID"]]
+                        "\n\n" + selectedMissableLots[itemEntry["lotID"]]
                 else:
                     missable[itemEntry["newItem"]] = \
-                        missableLots[itemEntry["lotID"]]
+                        selectedMissableLots[itemEntry["lotID"]]
         # remove any item entries we skipped from the item list
         for itemEntry in removeEntries:
             randomized[item].remove(itemEntry)

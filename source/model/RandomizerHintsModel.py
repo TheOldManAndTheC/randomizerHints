@@ -263,9 +263,14 @@ class RandomizerHintsModel(mtk.Model):
         if useRandomizer:
             self._output("readSpoilersText")
             missableLotsName = "missableLots_" + self._language
+            missableShopLotsName = "missableShopLots_" + self._language
             missableLots = getattr(importlib.import_module(missableLotsModule
                                                            + missableLotsName),
                                    missableLotsName)
+            missableShopLots = getattr(
+                importlib.import_module(missableLotsModule + missableLotsName),
+                missableShopLotsName
+            )
             self._randomized, self._seed, missable, missingEnemiesText = \
                 processRandomized(
                     self._readFile(self._itemSlotsFile, lines=True),
@@ -273,7 +278,8 @@ class RandomizerHintsModel(mtk.Model):
                     self._readFile(self._annotationsFile, lines=True),
                     self._readFile(self._latestFile(self._spoilerDir, "txt"),
                                    lines=True),
-                    missableLots
+                    missableLots,
+                    missableShopLots,
                 )
             if missingEnemiesText is not None:
                 self._writeFile(missingEnemiesText, "missing_enemies.txt")

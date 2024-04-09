@@ -1401,7 +1401,7 @@ defaultCategories = {
         "Warped Axe": {},
         "Warrior Jar Shard": {},
     },
-    "Axe": {
+    "Axes": {
         "Hand Axe": {},
         "Forked Hatchet": {},
         "Battle Axe": {},
@@ -1435,7 +1435,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Claw": {
+    "Claws": {
         "Hookclaws": {},
         "Bloodhound Claws": {},
         "Venomous Fang": {},
@@ -1450,7 +1450,7 @@ defaultCategories = {
         "Ash of War: Parry": {},
         "Ash of War: War Cry": {},
     },
-    "Colossal Sword": {
+    "Colossal Swords": {
         "Zweihander": {},
         "Greatsword": {},
         "Watchdog's Greatsword": {},
@@ -1482,7 +1482,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Waves of Darkness": {},
     },
-    "Colossal Weapon": {
+    "Colossal Weapons": {
         "Duelist Greataxe": {},
         "Rotten Greataxe": {},
         "Golem's Halberd": {},
@@ -1518,7 +1518,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Waves of Darkness": {},
     },
-    "Curved Greatsword": {
+    "Curved Greatswords": {
         "Dismounter": {},
         "Omen Cleaver": {},
         "Monk's Flameblade": {},
@@ -1555,7 +1555,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Curved Sword": {
+    "Curved Swords": {
         "Scimitar": {},
         "Falchion": {},
         "Shamshir": {},
@@ -1598,7 +1598,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Dagger": {
+    "Daggers": {
         "Dagger": {},
         "Parrying Dagger": {},
         "Miséricorde": {},
@@ -1639,7 +1639,7 @@ defaultCategories = {
         "Ash of War: Sword Dance": {},
         "Ash of War: Vacuum Slice": {},
     },
-    "Fist": {
+    "Fists": {
         "Caestus": {},
         "Spiked Caestus": {},
         "Katar": {},
@@ -1657,7 +1657,7 @@ defaultCategories = {
         "Ash of War: Parry": {},
         "Ash of War: War Cry": {},
     },
-    "Flail": {
+    "Flails": {
         "Flail": {},
         "Nightrider Flail": {},
         "Chainlink Flail": {},
@@ -1681,7 +1681,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Greataxe": {
+    "Greataxes": {
         "Axe of Godrick": {},
         "Crescent Moon Axe": {},
         "Executioner's Greataxe": {},
@@ -1718,7 +1718,7 @@ defaultCategories = {
         "Ash of War: Waves of Darkness": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Great Hammer": {
+    "Great Hammers": {
         "Large Club": {},
         "Curved Great Club": {},
         "Great Mace": {},
@@ -1756,7 +1756,7 @@ defaultCategories = {
         "Ash of War: Waves of Darkness": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Great Spear": {
+    "Great Spears": {
         "Lance": {},
         "Treespear": {},
         "Siluria's Tree": {},
@@ -1789,7 +1789,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Waves of Darkness": {},
     },
-    "Greatsword": {
+    "Greatswords": {
         "Bastard Sword": {},
         "Claymore": {},
         "Iron Greatsword": {},
@@ -1842,7 +1842,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Halberd": {
+    "Halberds": {
         "Halberd": {},
         "Banished Knight's Halberd": {},
         "Lucerne": {},
@@ -1887,7 +1887,7 @@ defaultCategories = {
         "Ash of War: Sword Dance": {},
         "Ash of War: War Cry": {},
     },
-    "Hammer": {
+    "Hammers": {
         "Club": {},
         "Curved Club": {},
         "Envoy's Horn": {},
@@ -1922,7 +1922,7 @@ defaultCategories = {
         "Ash of War: War Cry": {},
         "Ash of War: Wild Strikes": {},
     },
-    "Heavy Thrusting Sword": {
+    "Heavy Thrusting Swords": {
         "Bloody Helice": {},
         "Dragon King's Cragblade": {},
         "Godskin Stitcher": {},
@@ -1953,7 +1953,7 @@ defaultCategories = {
         "Ash of War: Troll's Roar": {},
         "Ash of War: Vacuum Slice": {},
     },
-    "Katana": {
+    "Katanas": {
         "Dragonscale Blade": {},
         "Hand of Malenia": {},
         "Meteoric Ore Blade": {},
@@ -1991,7 +1991,7 @@ defaultCategories = {
         "Ash of War: Vacuum Slice": {},
         "Ash of War: War Cry": {},
     },
-    "Reaper": {
+    "Reapers": {
         "Scythe": {},
         "Grave Scythe": {},
         "Halo Scythe": {},
@@ -2014,7 +2014,7 @@ defaultCategories = {
         "Ash of War: Sword Dance": {},
         "Ash of War: War Cry": {},
     },
-    "Seal": {
+    "Seals": {
         "Finger Seal": {},
         "Erdtree Seal": {},
         "Golden Order Seal": {},
@@ -2025,7 +2025,7 @@ defaultCategories = {
         "Frenzied Flame Seal": {},
         "Dragon Communion Seal": {},
     },
-    "Spear": {
+    "Spears": {
         "Short Spear": {},
         "Iron Spear": {},
         "Spear": {},
@@ -2069,7 +2069,7 @@ defaultCategories = {
         "Ash of War: Sword Dance": {},
         "Ash of War: War Cry": {},
     },
-    "Staff": {
+    "Staves": {
         "Astrologer's Staff": {},
         "Glintstone Staff": {},
         "Academy Glintstone Staff": {},
@@ -2090,7 +2090,7 @@ defaultCategories = {
         "Prince of Death's Staff": {},
         "Ash of War: Spinning Weapon": {},
     },
-    "Straight Sword": {
+    "Straight Swords": {
         "Broadsword": {},
         "Cane Sword": {},
         "Carian Knight's Sword": {},
@@ -2140,7 +2140,7 @@ defaultCategories = {
         "Ash of War: Vacuum Slice": {},
         "Ash of War: War Cry": {},
     },
-    "Thrusting Sword": {
+    "Thrusting Swords": {
         "Antspur Rapier": {},
         "Cleanrot Knight's Sword": {},
         "Estoc": {},
@@ -2170,7 +2170,7 @@ defaultCategories = {
         "Ash of War: Storm Blade": {},
         "Ash of War: Vacuum Slice": {},
     },
-    "Twinblade": {
+    "Twinblades": {
         "Twinblade": {},
         "Twinned Knight Swords": {},
         "Godskin Peeler": {},
@@ -2211,7 +2211,7 @@ defaultCategories = {
         "Ash of War: Vacuum Slice": {},
         "Ash of War: War Cry": {},
     },
-    "Whip": {
+    "Whips": {
         "Whip": {},
         "Thorned Whip": {},
         "Urumi": {},
@@ -2219,11 +2219,11 @@ defaultCategories = {
         "Magma Whip Candlestick": {},
         "Giant's Red Braid": {},
     },
-    "Ballista": {
+    "Ballistae": {
         "Hand Ballista": {},
         "Jar Cannon": {},
     },
-    "Bow": {
+    "Bows": {
         "Longbow": {},
         "Albinauric Bow": {},
         "Black Bow": {},
@@ -2236,7 +2236,7 @@ defaultCategories = {
         "Ash of War: Rain of Arrows": {},
         "Ash of War: Sky Shot": {},
     },
-    "Crossbow": {
+    "Crossbows": {
         "Soldier's Crossbow": {},
         "Light Crossbow": {},
         "Heavy Crossbow": {},
@@ -2245,7 +2245,7 @@ defaultCategories = {
         "Pulley Crossbow": {},
         "Full Moon Crossbow": {},
     },
-    "Greatbow": {
+    "Greatbows": {
         "Greatbow": {},
         "Golem Greatbow": {},
         "Erdtree Greatbow": {},
@@ -2253,7 +2253,7 @@ defaultCategories = {
         "Ash of War: Rain of Arrows": {},
         "Ash of War: Through and Through": {},
     },
-    "Light Bow": {
+    "Light Bows": {
         "Shortbow": {},
         "Composite Bow": {},
         "Red Branch Shortbow": {},
@@ -2265,7 +2265,7 @@ defaultCategories = {
         "Ash of War: Rain of Arrows": {},
         "Ash of War: Sky Shot": {},
     },
-    "Medium Shield": {
+    "Medium Shields": {
         "Ash of War: Barricade Shield": {},
         "Ash of War: Carian Retaliation": {},
         "Ash of War: Golden Parry": {},
@@ -2305,7 +2305,7 @@ defaultCategories = {
         "Silver Mirrorshield": {},
         "Great Turtle Shell": {},
     },
-    "Small Shield": {
+    "Small Shields": {
         "Ash of War: Barricade Shield": {},
         "Ash of War: Carian Retaliation": {},
         "Ash of War: Golden Parry": {},
@@ -2335,7 +2335,7 @@ defaultCategories = {
         "Smoldering Shield": {},
         "Coil Shield": {},
     },
-    "Greatshield": {
+    "Greatshields": {
         "Ash of War: Barricade Shield": {},
         "Ash of War: Holy Ground": {},
         "Ash of War: No Skill": {},
@@ -2368,7 +2368,7 @@ defaultCategories = {
         "Visage Shield": {},
         "One-Eyed Shield": {},
     },
-    "Torch": {
+    "Torches": {
         "Ash of War: No Skill": {},
         "Torch": {},
         "Beast-Repellent Torch": {},
@@ -2400,7 +2400,7 @@ defaultCategories = {
         "Ash of War: Thunderbolt": {},
         "Ash of War: White Shadow's Lure": {},
     },
-    "Ash of War": {
+    "Ashes of War": {
         "Ash of War: Assassin's Gambit": {},
         "Ash of War: Barbaric Roar": {},
         "Ash of War: Barrage": {},
