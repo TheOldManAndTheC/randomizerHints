@@ -527,6 +527,11 @@ regionHints = {
         "hintArea": "Frenzied Flame Village",
         "exceptions": [
             {
+                "replaces": "Magic-Shrouding Cracked Tear",
+                "hintRegion": "eastern Liurnia",
+                "hintArea": "the Minor Erdtree"
+            },
+            {
                 "replaces": "Lightning-Shrouding Cracked Tear",
                 "hintRegion": "eastern Liurnia",
                 "hintArea": "the Minor Erdtree"
